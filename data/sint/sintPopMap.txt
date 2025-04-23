@@ -1,0 +1,544 @@
+SFK001	Tortugas Bank_Mesophotic
+SFK002	Tortugas Bank_Mesophotic
+SFK003	Tortugas Bank_Mesophotic
+SFK004	Tortugas Bank_Mesophotic
+SFK005	Tortugas Bank_Mesophotic
+SFK006	Tortugas Bank_Mesophotic
+SFK007	Tortugas Bank_Mesophotic
+SFK008	Tortugas Bank_Mesophotic
+SFK009	Tortugas Bank_Mesophotic
+SFK010	Tortugas Bank_Shallow
+SFK011	Tortugas Bank_Mesophotic
+SFK012	Tortugas Bank_Shallow
+SFK013	Tortugas Bank_Shallow
+SFK014	Tortugas Bank_Mesophotic
+SFK015	Tortugas Bank_Mesophotic
+SFK016	Tortugas Bank_Shallow
+SFK017	Tortugas Bank_Mesophotic
+SFK018	Tortugas Bank_Mesophotic
+SFK019	Tortugas Bank_Mesophotic
+SFK020	Tortugas Bank_Mesophotic
+SFK021	Tortugas Bank_Mesophotic
+SFK022	Tortugas Bank_Mesophotic
+SFK023	Tortugas Bank_Mesophotic
+SFK024	Tortugas Bank_Mesophotic
+SFK025	Tortugas Bank_Mesophotic
+SFK026	Tortugas Bank_Shallow
+SFK027	Tortugas Bank_Shallow
+SFK028	Tortugas Bank_Shallow
+SFK029	Tortugas Bank_Mesophotic
+SFK030	Tortugas Bank_Mesophotic
+SFK031	Tortugas Bank_Shallow
+SFK032	Tortugas Bank_Mesophotic
+SFK033	Tortugas Bank_Mesophotic
+SFK034	Tortugas Bank_Shallow
+SFK035	Tortugas Bank_Shallow
+SFK036	Tortugas Bank_Shallow
+SFK037	Tortugas Bank_Shallow
+SFK038	Tortugas Bank_Shallow
+SFK039	Tortugas Bank_Shallow
+SFK040	Tortugas Bank_Shallow
+SFK041	Tortugas Bank_Shallow
+SFK042	Tortugas Bank_Shallow
+SFK043	Tortugas Bank_Shallow
+SFK044	Tortugas Bank_Shallow
+SFK045	Tortugas Bank_Shallow
+SFK046	Tortugas Bank_Shallow
+SFK047	Tortugas Bank_Shallow
+SFK048	Tortugas Bank_Shallow
+SFK049	Tortugas Bank_Shallow
+SFK050	Tortugas Bank_Shallow
+SFK051	Tortugas Bank_Shallow
+SFK052	Tortugas Bank_Shallow
+SFK053	Tortugas Bank_Shallow
+SFK054	Tortugas Bank_Shallow
+SFK055	Tortugas Bank_Shallow
+SFK056	Riley's Hump_Mesophotic
+SFK057	Riley's Hump_Mesophotic
+SFK058	Riley's Hump_Mesophotic
+SFK059	Riley's Hump_Mesophotic
+SFK060	Riley's Hump_Mesophotic
+SFK061	Riley's Hump_Mesophotic
+SFK062	Riley's Hump_Shallow
+SFK063	Riley's Hump_Shallow
+SFK064	Riley's Hump_Shallow
+SFK065	Riley's Hump_Shallow
+SFK066.2	Riley's Hump_Shallow
+SFK067	Riley's Hump_Shallow
+SFK068	Riley's Hump_Shallow
+SFK069	Riley's Hump_Shallow
+SFK070	Riley's Hump_Shallow
+SFK071	Riley's Hump_Shallow
+SFK072	Riley's Hump_Shallow
+SFK073	Riley's Hump_Shallow
+SFK074	Riley's Hump_Shallow
+SFK075	Riley's Hump_Shallow
+SFK076	Riley's Hump_Shallow
+SFK077	Riley's Hump_Shallow
+SFK078	Riley's Hump_Shallow
+SFK079	Riley's Hump_Shallow
+SFK080	Riley's Hump_Shallow
+SFK081	Riley's Hump_Shallow
+SFK082	Riley's Hump_Shallow
+SFK083	Riley's Hump_Shallow
+SFK084	Riley's Hump_Shallow
+SFK085	Riley's Hump_Shallow
+SFK086	Riley's Hump_Shallow
+SFK087	Riley's Hump_Shallow
+SFK088	Riley's Hump_Shallow
+SFK089	Riley's Hump_Shallow
+SFK090	Riley's Hump_Shallow
+SFK091	Riley's Hump_Shallow
+SFK092	Riley's Hump_Mesophotic
+SFK093	Riley's Hump_Mesophotic
+SFK094	Riley's Hump_Mesophotic
+SFK095	Riley's Hump_Mesophotic
+SFK096	Riley's Hump_Mesophotic
+SFK097	Riley's Hump_Mesophotic
+SFK098	Riley's Hump_Mesophotic
+SFK099	Riley's Hump_Mesophotic
+SFK100	Riley's Hump_Mesophotic
+SFK101	Lower Keys_Mesophotic
+SFK102	Lower Keys_Mesophotic
+SFK103	Lower Keys_Mesophotic
+SFK104	Lower Keys_Mesophotic
+SFK105	Lower Keys_Mesophotic
+SFK106	Lower Keys_Mesophotic
+SFK107	Lower Keys_Mesophotic
+SFK108	Lower Keys_Mesophotic
+SFK109	Lower Keys_Mesophotic
+SFK110	Lower Keys_Mesophotic
+SFK111	Lower Keys_Mesophotic
+SFK112	Lower Keys_Mesophotic
+SFK113	Lower Keys_Mesophotic
+SFK114	Lower Keys_Mesophotic
+SFK115	Lower Keys_Mesophotic
+SFK116	Lower Keys_Mesophotic
+SFK117	Lower Keys_Mesophotic
+SFK118	Lower Keys_Mesophotic
+SFK119	Lower Keys_Mesophotic
+SFK120	Lower Keys_Mesophotic
+SFK121	Lower Keys_Mesophotic
+SFK122	Lower Keys_Mesophotic
+SFK123	Lower Keys_Mesophotic
+SFK124	Lower Keys_Mesophotic
+SFK125	Lower Keys_Mesophotic
+SFK126	Lower Keys_Mesophotic
+SFK127	Lower Keys_Mesophotic
+SFK128	Lower Keys_Shallow
+SFK129	Lower Keys_Shallow
+SFK130	Lower Keys_Shallow
+SFK131	Lower Keys_Shallow
+SFK132	Lower Keys_Shallow
+SFK133	Lower Keys_Shallow
+SFK134	Lower Keys_Shallow
+SFK135	Lower Keys_Shallow
+SFK136	Lower Keys_Shallow
+SFK137	Lower Keys_Shallow
+SFK138	Lower Keys_Shallow
+SFK139	Lower Keys_Shallow
+SFK140	Lower Keys_Shallow
+SFK141	Lower Keys_Shallow
+SFK142	Lower Keys_Shallow
+SFK143	Lower Keys_Shallow
+SFK144	Lower Keys_Shallow
+SFK145	Lower Keys_Shallow
+SFK146	Lower Keys_Shallow
+SFK147	Lower Keys_Shallow
+SFK148	Lower Keys_Shallow
+SFK149	Lower Keys_Shallow
+SFK150	Lower Keys_Shallow
+SFK151	Lower Keys_Shallow
+SFK152	Lower Keys_Shallow
+SFK153	Lower Keys_Shallow
+SFK154	Lower Keys_Mesophotic
+SFK155	Lower Keys_Mesophotic
+SFK156	Lower Keys_Mesophotic
+SFK157	Lower Keys_Shallow
+SFK158	Lower Keys_Shallow
+SFK159	Lower Keys_Shallow
+SFK160	Lower Keys_Shallow
+SFK161	Upper Keys_Shallow
+SFK162.2	Upper Keys_Shallow
+SFK163	Upper Keys_Shallow
+SFK164	Upper Keys_Shallow
+SFK165	Upper Keys_Shallow
+SFK166	Upper Keys_Shallow
+SFK167	Upper Keys_Shallow
+SFK168	Upper Keys_Shallow
+SFK169	Upper Keys_Mesophotic
+SFK170	Upper Keys_Mesophotic
+SFK171	Upper Keys_Mesophotic
+SFK172	Upper Keys_Mesophotic
+SFK173	Upper Keys_Shallow
+SFK174	Upper Keys_Shallow
+SFK175	Upper Keys_Shallow
+SFK176	Upper Keys_Shallow
+SFK177	Upper Keys_Shallow
+SFK178	Upper Keys_Shallow
+SFK179	Upper Keys_Shallow
+SFK180	Upper Keys_Mesophotic
+SFK181	Upper Keys_Mesophotic
+SFK182	Upper Keys_Mesophotic
+SFK184	Upper Keys_Shallow
+SFK185	Upper Keys_Shallow
+SFK186	Upper Keys_Shallow
+SFK187	Upper Keys_Shallow
+SFK188	Upper Keys_Shallow
+SFK189	Upper Keys_Shallow
+SFK190	Upper Keys_Shallow
+SFK191	Upper Keys_Shallow
+SFK192	Upper Keys_Shallow
+SFK193	Upper Keys_Shallow
+SFK194	Upper Keys_Mesophotic
+SFK195	Upper Keys_Mesophotic
+SFK196	Upper Keys_Mesophotic
+SFK197	Upper Keys_Mesophotic
+SFK198	Upper Keys_Mesophotic
+SFK199	Upper Keys_Mesophotic
+SFK200	Upper Keys_Mesophotic
+SFK201	Upper Keys_Mesophotic
+SFK202	Upper Keys_Mesophotic
+SFK203	Upper Keys_Mesophotic
+SFK204	Upper Keys_Mesophotic
+SFK205.2	Upper Keys_Mesophotic
+SFK206	Upper Keys_Mesophotic
+SFK207	Upper Keys_Mesophotic
+SFK208	Upper Keys_Mesophotic
+SFK209	Upper Keys_Mesophotic
+SFK210	Upper Keys_Mesophotic
+SFK211	Upper Keys_Mesophotic
+SFK212	Upper Keys_Mesophotic
+SFK213	Upper Keys_Mesophotic
+SFK214	Upper Keys_Mesophotic
+SFK215	Upper Keys_Mesophotic
+SFK216	Upper Keys_Mesophotic
+SFK217	Upper Keys_Shallow
+SFK218	Upper Keys_Shallow
+SFK219	Upper Keys_Shallow
+SFK220	Upper Keys_Shallow
+SGM001	WFGB_Mesophotic
+SGM002	WFGB_Mesophotic
+SGM003	McGrail_Mesophotic
+SGM004	McGrail_Mesophotic
+SGM005	McGrail_Mesophotic
+SGM006	McGrail_Mesophotic
+SGM008	McGrail_Mesophotic
+SGM009	McGrail_Mesophotic
+SGM011	McGrail_Mesophotic
+SGM012	McGrail_Mesophotic
+SGM014	McGrail_Mesophotic
+SGM015	McGrail_Mesophotic
+SGM016	McGrail_Mesophotic
+SGM017	McGrail_Mesophotic
+SGM018	McGrail_Mesophotic
+SGM019	McGrail_Mesophotic
+SGM020	McGrail_Mesophotic
+SGM021	McGrail_Mesophotic
+SGM022	McGrail_Mesophotic
+SGM023	McGrail_Mesophotic
+SGM024	McGrail_Mesophotic
+SGM025	McGrail_Mesophotic
+SGM026	McGrail_Mesophotic
+SGM027.1	McGrail_Mesophotic
+SGM028	McGrail_Mesophotic
+SGM029	McGrail_Mesophotic
+SGM030	McGrail_Mesophotic
+SGM031	McGrail_Mesophotic
+SGM032	McGrail_Mesophotic
+SGM033	Bright_Mesophotic
+SGM034	Bright_Mesophotic
+SGM035	Bright_Mesophotic
+SGM036	Bright_Mesophotic
+SGM037	Bright_Mesophotic
+SGM038	Bright_Mesophotic
+SGM039	Bright_Mesophotic
+SGM040	Bright_Mesophotic
+SGM041	Bright_Mesophotic
+SGM042	Bright_Mesophotic
+SGM043	Bright_Mesophotic
+SGM044	Bright_Mesophotic
+SGM045	Bright_Mesophotic
+SGM046.2	Bright_Mesophotic
+SGM047	Bright_Mesophotic
+SGM048	Bright_Mesophotic
+SGM049	Bright_Mesophotic
+SGM050	Bright_Mesophotic
+SGM051	Bright_Mesophotic
+SGM052	Bright_Mesophotic
+SGM053	Bright_Mesophotic
+SGM054	Bright_Mesophotic
+SGM055	Bright_Mesophotic
+SGM056	Bright_Mesophotic
+SGM057	Bright_Mesophotic
+SGM058	Bright_Mesophotic
+SGM059	Bright_Mesophotic
+SGM060	Bright_Mesophotic
+SGM061	Bright_Mesophotic
+SGM062	Bright_Mesophotic
+SGM064	EFGB_Mesophotic
+SGM065	EFGB_Mesophotic
+SGM066	EFGB_Mesophotic
+SGM067	EFGB_Mesophotic
+SGM068	EFGB_Mesophotic
+SGM069	EFGB_Mesophotic
+SGM070	EFGB_Mesophotic
+SGM071	EFGB_Mesophotic
+SGM072	EFGB_Mesophotic
+SGM073	EFGB_Mesophotic
+SGM074	EFGB_Mesophotic
+SGM075	WFGB_Mesophotic
+SGM076	WFGB_Mesophotic
+SGM077	WFGB_Mesophotic
+SGM078	WFGB_Mesophotic
+SGM079	WFGB_Mesophotic
+SGM080	WFGB_Mesophotic
+SGM081	WFGB_Mesophotic
+SGM082	WFGB_Mesophotic
+SGM083	WFGB_Mesophotic
+SGM084	WFGB_Mesophotic
+SGM085	WFGB_Mesophotic
+SGM086	WFGB_Mesophotic
+SGM087	WFGB_Mesophotic
+SGM088	WFGB_Mesophotic
+SGM089	WFGB_Mesophotic
+SGM090	WFGB_Mesophotic
+SGM091	WFGB_Mesophotic
+SGM092	WFGB_Mesophotic
+SGM093	WFGB_Mesophotic
+SGM094	WFGB_Mesophotic
+SGM095	WFGB_Mesophotic
+SGM096	WFGB_Mesophotic
+SGM097	WFGB_Mesophotic
+SGM098	WFGB_Mesophotic
+SGM099	WFGB_Mesophotic
+SGM100	WFGB_Mesophotic
+SGM101	WFGB_Mesophotic
+SGM102	WFGB_Mesophotic
+SGM103	EFGB_Mesophotic
+SGM104	EFGB_Mesophotic
+SGM105	EFGB_Shallow
+SGM106	EFGB_Shallow
+SGM107	EFGB_Shallow
+SGM108	EFGB_Shallow
+SGM109	EFGB_Shallow
+SGM110	EFGB_Mesophotic
+SGM111	EFGB_Mesophotic
+SGM112	EFGB_Mesophotic
+SGM113	EFGB_Mesophotic
+SGM114	EFGB_Mesophotic
+SGM115	EFGB_Shallow
+SGM116	EFGB_Shallow
+SGM117	EFGB_Shallow
+SGM118	EFGB_Shallow
+SGM119	EFGB_Shallow
+SGM120	EFGB_Shallow
+SGM121	EFGB_Mesophotic
+SGM122	EFGB_Mesophotic
+SGM123	EFGB_Mesophotic
+SGM125	EFGB_Mesophotic
+SGM126	EFGB_Mesophotic
+SGM127	EFGB_Mesophotic
+SGM128	EFGB_Mesophotic
+SGM129	EFGB_Shallow
+SGM130	EFGB_Shallow
+SGM131	EFGB_Shallow
+SGM132	EFGB_Shallow
+SGM133	EFGB_Shallow
+SGM134	EFGB_Shallow
+SGM135	EFGB_Shallow
+SGM136	EFGB_Shallow
+SGM137	EFGB_Shallow
+SGM138	EFGB_Shallow
+SGM139	EFGB_Shallow
+SGM140	EFGB_Shallow
+SGM141	EFGB_Shallow
+SGM142	EFGB_Shallow
+SGM143	EFGB_Shallow
+SGM144	EFGB_Shallow
+SGM145	EFGB_Shallow
+SGM146	EFGB_Shallow
+SGM147	EFGB_Shallow
+SGM148	WFGB_Shallow
+SGM149	WFGB_Shallow
+SGM150	WFGB_Shallow
+SGM151	WFGB_Shallow
+SGM152.1	WFGB_Shallow
+SGM153	WFGB_Shallow
+SGM154	WFGB_Shallow
+SGM155	WFGB_Shallow
+SGM156	WFGB_Shallow
+SGM157	WFGB_Shallow
+SGM158	WFGB_Shallow
+SGM159	WFGB_Shallow
+SGM160	WFGB_Shallow
+SGM161	WFGB_Shallow
+SGM162	WFGB_Shallow
+SGM163	WFGB_Shallow
+SGM164	WFGB_Shallow
+SGM165	WFGB_Shallow
+SGM166	WFGB_Shallow
+SGM167	WFGB_Shallow
+SGM168	WFGB_Shallow
+SGM170	WFGB_Shallow
+SGM171	WFGB_Shallow
+SGM172	WFGB_Shallow
+SGM173	WFGB_Shallow
+SGM174	WFGB_Shallow
+SGM175	WFGB_Shallow
+SGM176	WFGB_Shallow
+SGM178	EFGB_Mesophotic
+SGM179	EFGB_Mesophotic
+SGM180	EFGB_Mesophotic
+SGM181	Geyer_Mesophotic
+SGM182	Geyer_Mesophotic
+SGM183	Geyer_Mesophotic
+SGM184	Geyer_Mesophotic
+SGM185	Geyer_Mesophotic
+SGM186.2	Geyer_Mesophotic
+SGM187	Geyer_Mesophotic
+SGM188	Geyer_Mesophotic
+SGM189	Geyer_Mesophotic
+SGM190	Geyer_Mesophotic
+SGM191	Geyer_Mesophotic
+SGM192	Geyer_Mesophotic
+SGM193	Geyer_Mesophotic
+SGM194	Geyer_Mesophotic
+SGM195	Geyer_Mesophotic
+SGM196	Geyer_Mesophotic
+SGM197.1	Geyer_Mesophotic
+SGM198	Geyer_Mesophotic
+SGM199	Geyer_Mesophotic
+SGM200	Geyer_Mesophotic
+SGM201	Geyer_Mesophotic
+SGM202	Geyer_Mesophotic
+SGM203	Geyer_Mesophotic
+SGM204	Geyer_Mesophotic
+SGM205	Geyer_Mesophotic
+SGM206.1	Geyer_Mesophotic
+SGM207	Geyer_Mesophotic
+SGM208	Geyer_Mesophotic
+SGM209	Geyer_Mesophotic
+SGM210	Geyer_Mesophotic
+SSF001	West Palm Beach_Shallow
+SSF002	West Palm Beach_Shallow
+SSF003	West Palm Beach_Shallow
+SSF004	West Palm Beach_Shallow
+SSF005.3	West Palm Beach_Shallow
+SSF006	West Palm Beach_Shallow
+SSF007	West Palm Beach_Shallow
+SSF008	West Palm Beach_Shallow
+SSF009	West Palm Beach_Shallow
+SSF010	West Palm Beach_Shallow
+SSF011	West Palm Beach_Shallow
+SSF012	West Palm Beach_Shallow
+SSF013	West Palm Beach_Shallow
+SSF014	West Palm Beach_Shallow
+SSF015	West Palm Beach_Shallow
+SSF016	West Palm Beach_Shallow
+SSF017	West Palm Beach_Shallow
+SSF018	West Palm Beach_Shallow
+SSF019	West Palm Beach_Shallow
+SSF020	West Palm Beach_Shallow
+SSF021	West Palm Beach_Shallow
+SSF022	West Palm Beach_Shallow
+SSF023	West Palm Beach_Shallow
+SSF024	West Palm Beach_Shallow
+SSF025	West Palm Beach_Shallow
+SSF026	West Palm Beach_Shallow
+SSF027	West Palm Beach_Shallow
+SSF028	West Palm Beach_Shallow
+SSF029	West Palm Beach_Shallow
+SSF030	West Palm Beach_Shallow
+SSF031	Jupiter_Shallow
+SSF032	Jupiter_Shallow
+SSF033	Jupiter_Shallow
+SSF034	Jupiter_Shallow
+SSF035	Jupiter_Shallow
+SSF036	Jupiter_Shallow
+SSF037	Jupiter_Shallow
+SSF038	Jupiter_Shallow
+SSF039	Jupiter_Shallow
+SSF040	Jupiter_Shallow
+SSF041	Jupiter_Shallow
+SSF042	Jupiter_Shallow
+SSF043	Jupiter_Shallow
+SSF044	Jupiter_Shallow
+SSF045	Jupiter_Shallow
+SSF046	Jupiter_Shallow
+SSF047	Jupiter_Shallow
+SSF048	Jupiter_Shallow
+SSF049	Jupiter_Shallow
+SSF050	Jupiter_Shallow
+SSF051	Jupiter_Shallow
+SSF052	Jupiter_Shallow
+SSF053	Jupiter_Shallow
+SSF054	Jupiter_Shallow
+SSF055	Jupiter_Shallow
+SSF056	Jupiter_Shallow
+SSF057	Jupiter_Shallow
+SSF058	Jupiter_Shallow
+SSF059	Jupiter_Shallow
+SSF060	Jupiter_Shallow
+SSF061	St Lucie Reef_Shallow
+SSF062	St Lucie Reef_Shallow
+SSF063	Ft Lauderdale_Shallow
+SSF064	Ft Lauderdale_Shallow
+SSF065	Ft Lauderdale_Shallow
+SSF066.2	Ft Lauderdale_Shallow
+SSF067	Ft Lauderdale_Shallow
+SSF068	Ft Lauderdale_Shallow
+SSF069	Ft Lauderdale_Shallow
+SSF070	Ft Lauderdale_Shallow
+SSF071	Ft Lauderdale_Shallow
+SSF072	Ft Lauderdale_Shallow
+SSF073	Ft Lauderdale_Shallow
+SSF074	Ft Lauderdale_Shallow
+SSF075	Ft Lauderdale_Shallow
+SSF076	Ft Lauderdale_Shallow
+SSF077	Ft Lauderdale_Shallow
+SSF078	Ft Lauderdale_Shallow
+SSF079	Ft Lauderdale_Shallow
+SSF080	Ft Lauderdale_Shallow
+SSF081	Ft Lauderdale_Shallow
+SSF082	Ft Lauderdale_Shallow
+SSF083	Ft Lauderdale_Shallow
+SSF084	Ft Lauderdale_Shallow
+SSF085	Ft Lauderdale_Shallow
+SSF086	Ft Lauderdale_Shallow
+SSF087	Ft Lauderdale_Shallow
+SSF088	Ft Lauderdale_Shallow
+SSF089	Ft Lauderdale_Shallow
+SSF090	Ft Lauderdale_Shallow
+SSF091.1	Ft Lauderdale_Shallow
+SSF092	Ft Lauderdale_Shallow
+SSF093	Boynton_Shallow
+SSF094	Boynton_Shallow
+SSF095	Boynton_Shallow
+SSF096	Boynton_Shallow
+SSF097	Boynton_Shallow
+SSF098	Boynton_Shallow
+SSF099	Boynton_Shallow
+SSF100	Boynton_Shallow
+SSF101	Boynton_Shallow
+SSF102	Boynton_Shallow
+SSF103	Boynton_Shallow
+SSF104	Boynton_Shallow
+SSF105	Boynton_Shallow
+SSF106	Boynton_Shallow
+SSF107	Boynton_Shallow
+SSF108	Boynton_Shallow
+SSF109	Boynton_Shallow
+SSF110	Boynton_Shallow
+SSF111	Boynton_Shallow
+SSF112	Boynton_Shallow
+SSF113	Boynton_Shallow
+SSF114	Boynton_Shallow
+SSF115	Boynton_Shallow
+SSF116	Boynton_Shallow
+SSF117	Boynton_Shallow
+SSF118	Boynton_Shallow
+SSF119	Boynton_Shallow
+SSF120	Boynton_Shallow
+SSF121	Boynton_Shallow
+SSF122	Boynton_Shallow

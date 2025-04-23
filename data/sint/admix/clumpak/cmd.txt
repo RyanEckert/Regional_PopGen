@@ -1,0 +1,3 @@
+/lsweb/josef_sites/clumpak/
+perl /lsweb/josef_sites/clumpak/sendFirstEmailNew.pl reckert2017@fau.edu 1739987749;perl BestKByEvanno.pl --id 1739987749 --dir /lsweb/josef_results/clumpak//1739987749 --file /lsweb/josef_results/clumpak//1739987749/sintNgsAdmixLogfile_formatted  --inputtype lnprobbyk;perl sendLastEmail.pl --toEmail reckert2017@fau.edu --id 1739987749;
+/lsweb/josef_results/clumpak//1739987749/

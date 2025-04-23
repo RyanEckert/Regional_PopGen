@@ -1,0 +1,54 @@
+
+Using the parameter settings in the file: 
+''1740059603/clumpp.paramfile''
+
+Parameter settings
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 1740059603/ClumppIndFile
+POPFILE = 
+OUTFILE = 1740059603/ClumppIndFile.output
+MISCFILE = 1740059603/ClumppIndFile.misc
+K = 15
+C = 539
+R = 4
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 0
+PERMUTED_DATAFILE = 
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDER = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Results
+------------------------------
+The highest value of H' is: 0.96924894712169
+
+The list of permutations of the clusters that produces that
+H' value is (runs are listed sequentially on separate rows)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+12 13 5 15 14 2 8 3 6 1 10 9 4 11 7 
+4 11 15 8 3 6 13 10 7 2 5 14 12 1 9 
+7 4 13 1 9 2 8 10 6 5 11 15 3 14 12 
+
+The pairwise G' values for each pair of runs where the clusters
+of each run are permuted according to the list of permutations above
+
+1.0000 0.9975 0.9449 0.9927 
+0.9975 1.0000 0.9448 0.9925 
+0.9449 0.9448 1.0000 0.9431 
+0.9927 0.9925 0.9431 1.0000 

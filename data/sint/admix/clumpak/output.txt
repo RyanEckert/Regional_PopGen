@@ -1,0 +1,256 @@
+
+Retrieving data from files for each K
+Data for K=1:
+mean: -4311479.22505615
+standard deviation: 3.6643714243612e-07
+median: -4311479.225056
+Data for K=2:
+mean: -3898099.70672045
+standard deviation: 0.0511226655221051
+median: -3898099.717761
+Data for K=3:
+mean: -3811829.4839078
+standard deviation: 0.417627946762612
+median: -3811829.266152
+Data for K=4:
+mean: -3746852.23388745
+standard deviation: 11817.3227502648
+median: -3743012.9179995
+Data for K=5:
+mean: -3712808.7414736
+standard deviation: 0.355185316468157
+median: -3712808.691529
+Data for K=6:
+mean: -3704871.90659915
+standard deviation: 1084.74736184024
+median: -3705279.0612725
+Data for K=7:
+mean: -3697733.83405465
+standard deviation: 932.396652865986
+median: -3697952.899831
+Data for K=8:
+mean: -3689541.44136195
+standard deviation: 1761.32531100484
+median: -3689714.851193
+Data for K=9:
+mean: -3682717.05918345
+standard deviation: 2081.97135361585
+median: -3683459.480912
+Data for K=10:
+mean: -3675259.8305566
+standard deviation: 1675.73052036061
+median: -3674435.1568655
+Data for K=11:
+mean: -3667415.94791595
+standard deviation: 1708.93329488835
+median: -3666580.873217
+Data for K=12:
+mean: -3661330.13526935
+standard deviation: 2978.47182155507
+median: -3660412.1809995
+Data for K=13:
+mean: -3653733.90704495
+standard deviation: 1675.69825983414
+median: -3653259.7809365
+Data for K=14:
+mean: -3647031.02435585
+standard deviation: 1568.86368899232
+median: -3646625.8767655
+Data for K=15:
+mean: -3640202.6550316
+standard deviation: 1494.29523870404
+median: -3639377.684279
+Data for K=16:
+mean: -3633815.14103845
+standard deviation: 1607.68300273765
+median: -3633506.510933
+Data for K=17:
+mean: -3626853.7723903
+standard deviation: 1523.4957043648
+median: -3626487.531826
+Data for K=18:
+mean: -3620618.5990368
+standard deviation: 1581.92740634887
+median: -3620025.5564235
+Data for K=19:
+mean: -3614542.1827437
+standard deviation: 1530.79305400615
+median: -3613842.344918
+Data for K=20:
+mean: -3608600.45650185
+standard deviation: 2161.64105335707
+median: -3607656.9556985
+Calculating Best K by Evanno..
+
+calculating Ln'(K) for each K..
+Ln'(K=2) = 413379.518335699
+Ln'(K=3) = 86270.2228126498
+Ln'(K=4) = 64977.2500203499
+Ln'(K=5) = 34043.49241385
+Ln'(K=6) = 7936.83487445023
+Ln'(K=7) = 7138.07254449977
+Ln'(K=8) = 8192.39269270049
+Ln'(K=9) = 6824.38217849983
+Ln'(K=10) = 7457.22862685006
+Ln'(K=11) = 7843.88264064956
+Ln'(K=12) = 6085.81264659995
+Ln'(K=13) = 7596.2282243995
+Ln'(K=14) = 6702.88268910069
+Ln'(K=15) = 6828.36932425015
+Ln'(K=16) = 6387.51399315009
+Ln'(K=17) = 6961.36864815
+Ln'(K=18) = 6235.17335349973
+Ln'(K=19) = 6076.41629310045
+Ln'(K=20) = 5941.72624184983
+
+calculating |Ln''(K)| for each K..
+|Ln''(K=2)| = 327109.295523049
+|Ln''(K=3)| = 21292.9727922999
+|Ln''(K=4)| = 30933.7576064998
+|Ln''(K=5)| = 26106.6575393998
+|Ln''(K=6)| = 798.762329950463
+|Ln''(K=7)| = 1054.32014820073
+|Ln''(K=8)| = 1368.01051420067
+|Ln''(K=9)| = 632.846448350232
+|Ln''(K=10)| = 386.654013799503
+|Ln''(K=11)| = 1758.06999404961
+|Ln''(K=12)| = 1510.41557779955
+|Ln''(K=13)| = 893.345535298809
+|Ln''(K=14)| = 125.486635149457
+|Ln''(K=15)| = 440.855331100058
+|Ln''(K=16)| = 573.854654999916
+|Ln''(K=17)| = 726.195294650272
+|Ln''(K=18)| = 158.757060399279
+|Ln''(K=19)| = 134.690051250625
+
+calculating Delta K for each K..
+Delta(K=2) = 6398517.99944996
+Delta(K=3) = 50985.5074531285
+Delta(K=4) = 2.61766207627753
+Delta(K=5) = 73501.5112645861
+Delta(K=6) = 0.736357937386807
+Delta(K=7) = 1.13076354892521
+Delta(K=8) = 0.776693837108497
+Delta(K=9) = 0.303965012415344
+Delta(K=10) = 0.230737585251057
+Delta(K=11) = 1.02875284793633
+Delta(K=12) = 0.507110917373377
+Delta(K=13) = 0.533118376208873
+Delta(K=14) = 0.0799856839251957
+Delta(K=15) = 0.295025587769655
+Delta(K=16) = 0.356945152758798
+Delta(K=17) = 0.476663828174724
+Delta(K=18) = 0.10035672924189
+Delta(K=19) = 0.0879871063551901
+Max Delta K: 6398517.99944996
+Optimal K by Evanno is: 2.
+
+Using median values of Ln Prob of Data to calculate Prob(K=k)..
+max median is -3607656.9556985
+calculating exp(median) for every k
+k: 1
+median: -4311479.225056
+median-max: -703822.2693575
+exp value: 0
+k: 10
+median: -3674435.1568655
+median-max: -66778.2011669995
+exp value: 0
+k: 11
+median: -3666580.873217
+median-max: -58923.9175184998
+exp value: 0
+k: 12
+median: -3660412.1809995
+median-max: -52755.2253009994
+exp value: 0
+k: 13
+median: -3653259.7809365
+median-max: -45602.8252379997
+exp value: 0
+k: 14
+median: -3646625.8767655
+median-max: -38968.9210669994
+exp value: 0
+k: 15
+median: -3639377.684279
+median-max: -31720.7285804995
+exp value: 0
+k: 16
+median: -3633506.510933
+median-max: -25849.5552344993
+exp value: 0
+k: 17
+median: -3626487.531826
+median-max: -18830.5761274993
+exp value: 0
+k: 18
+median: -3620025.5564235
+median-max: -12368.6007249998
+exp value: 0
+k: 19
+median: -3613842.344918
+median-max: -6185.38921949966
+exp value: 0
+k: 2
+median: -3898099.717761
+median-max: -290442.762062499
+exp value: 0
+k: 20
+median: -3607656.9556985
+median-max: 0
+exp value: 1
+k: 3
+median: -3811829.266152
+median-max: -204172.3104535
+exp value: 0
+k: 4
+median: -3743012.9179995
+median-max: -135355.962301
+exp value: 0
+k: 5
+median: -3712808.691529
+median-max: -105151.7358305
+exp value: 0
+k: 6
+median: -3705279.0612725
+median-max: -97622.1055739997
+exp value: 0
+k: 7
+median: -3697952.899831
+median-max: -90295.9441324994
+exp value: 0
+k: 8
+median: -3689714.851193
+median-max: -82057.8954944992
+exp value: 0
+k: 9
+median: -3683459.480912
+median-max: -75802.5252134996
+exp value: 0
+sum of all exp: 1
+calculating probability for each k:
+Prob(K=1) = 0
+Prob(K=10) = 0
+Prob(K=11) = 0
+Prob(K=12) = 0
+Prob(K=13) = 0
+Prob(K=14) = 0
+Prob(K=15) = 0
+Prob(K=16) = 0
+Prob(K=17) = 0
+Prob(K=18) = 0
+Prob(K=19) = 0
+Prob(K=2) = 0
+Prob(K=20) = 1
+Prob(K=3) = 0
+Prob(K=4) = 0
+Prob(K=5) = 0
+Prob(K=6) = 0
+Prob(K=7) = 0
+Prob(K=8) = 0
+Prob(K=9) = 0
+best k by Pritchard: 20
+max prob: 1
+Max Probability: 1
+Optimal K by Pritchard is: 20.

@@ -1,0 +1,72 @@
+
+Using the parameter settings in the file: 
+''1740059603/clumpp.paramfile''
+
+Parameter settings
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 1740059603/ClumppIndFile
+POPFILE = 
+OUTFILE = 1740059603/ClumppIndFile.output
+MISCFILE = 1740059603/ClumppIndFile.misc
+K = 12
+C = 539
+R = 13
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 0
+PERMUTED_DATAFILE = 
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDER = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Results
+------------------------------
+The highest value of H' is: 0.80225361323726
+
+The list of permutations of the clusters that produces that
+H' value is (runs are listed sequentially on separate rows)
+
+1 2 3 4 5 6 7 8 9 10 11 12 
+2 7 10 12 9 5 3 6 8 11 4 1 
+10 7 8 2 4 3 9 5 12 11 1 6 
+8 2 11 12 10 5 1 7 6 9 3 4 
+11 4 1 8 10 5 2 7 9 6 3 12 
+6 12 10 8 5 7 3 9 11 1 2 4 
+11 8 7 3 2 1 6 9 12 4 10 5 
+10 4 11 12 3 5 2 1 7 8 6 9 
+6 12 5 9 10 3 2 4 8 7 11 1 
+3 12 6 9 8 7 10 11 2 4 5 1 
+5 10 4 6 2 9 12 7 3 8 11 1 
+1 10 5 3 2 12 8 4 9 6 11 7 
+4 9 5 10 3 2 12 6 11 7 8 1 
+
+The pairwise G' values for each pair of runs where the clusters
+of each run are permuted according to the list of permutations above
+
+1.0000 0.8182 0.8454 0.8454 0.7613 0.9988 0.8445 0.9986 0.7435 0.8122 0.7749 0.7567 0.6862 
+0.8182 1.0000 0.7603 0.7608 0.8447 0.8181 0.7551 0.8185 0.8153 0.9369 0.7752 0.8325 0.7421 
+0.8454 0.7603 1.0000 0.9969 0.8171 0.8454 0.9844 0.8456 0.6999 0.7555 0.8347 0.8110 0.7084 
+0.8454 0.7608 0.9969 1.0000 0.8178 0.8454 0.9825 0.8456 0.7002 0.7561 0.8354 0.8117 0.7087 
+0.7613 0.8447 0.8171 0.8178 1.0000 0.7612 0.8102 0.7617 0.7587 0.8324 0.8369 0.9374 0.7705 
+0.9988 0.8181 0.8454 0.8454 0.7612 1.0000 0.8445 0.9987 0.7434 0.8121 0.7748 0.7566 0.6861 
+0.8445 0.7551 0.9844 0.9825 0.8102 0.8445 1.0000 0.8446 0.6962 0.7499 0.8266 0.8036 0.7046 
+0.9986 0.8185 0.8456 0.8456 0.7617 0.9987 0.8446 1.0000 0.7436 0.8126 0.7753 0.7571 0.6865 
+0.7435 0.8153 0.6999 0.7002 0.7587 0.7434 0.6962 0.7436 1.0000 0.8177 0.7182 0.7608 0.7087 
+0.8122 0.9369 0.7555 0.7561 0.8324 0.8121 0.7499 0.8126 0.8177 1.0000 0.7929 0.8446 0.7414 
+0.7749 0.7752 0.8347 0.8354 0.8369 0.7748 0.8266 0.7753 0.7182 0.7929 1.0000 0.8620 0.7265 
+0.7567 0.8325 0.8110 0.8117 0.9374 0.7566 0.8036 0.7571 0.7608 0.8446 0.8620 1.0000 0.7700 
+0.6862 0.7421 0.7084 0.7087 0.7705 0.6861 0.7046 0.6865 0.7087 0.7414 0.7265 0.7700 1.0000 

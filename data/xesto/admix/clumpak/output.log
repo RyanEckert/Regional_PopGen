@@ -1,0 +1,223 @@
+Thu Feb 20 21:53:40 2025: Job 1740059603 started running.
+Thu Feb 20 21:53:40 2025: Job Parameters:
+Thu Feb 20 21:53:40 2025: Input file: 1740059603.zip
+Thu Feb 20 21:53:40 2025: Input type: ADMIXTURE
+Thu Feb 20 21:53:40 2025: Admixture populations file: 1740059603.pop.admixlabel
+Thu Feb 20 21:53:40 2025: CLUMPP repeats: 2000
+Thu Feb 20 21:53:40 2025: CLUMPP search method: LargeKGreedy 
+Thu Feb 20 21:53:40 2025: MCL cluster size threshold: 0.1 (default)
+Thu Feb 20 21:53:40 2025: Extracting file: "1740059603.zip".
+Thu Feb 20 21:53:41 2025: Sorting input files by K
+Thu Feb 20 21:53:43 2025: Working on K=1
+Thu Feb 20 21:53:43 2025: Executing CLUMPP for K=1.
+Thu Feb 20 21:53:43 2025: Clustering K=1 with mcl.
+Thu Feb 20 21:53:43 2025: no cutoff was used
+Thu Feb 20 21:53:43 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 21:53:43 2025: Working on K=2
+Thu Feb 20 21:53:43 2025: Executing CLUMPP for K=2.
+Thu Feb 20 21:53:49 2025: Clustering K=2 with mcl.
+Thu Feb 20 21:53:49 2025: no cutoff was used
+Thu Feb 20 21:53:49 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 21:53:56 2025: Working on K=3
+Thu Feb 20 21:53:56 2025: Executing CLUMPP for K=3.
+Thu Feb 20 21:54:08 2025: Clustering K=3 with mcl.
+Thu Feb 20 21:54:08 2025: no cutoff was used
+Thu Feb 20 21:54:08 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 21:54:21 2025: Working on K=4
+Thu Feb 20 21:54:21 2025: Executing CLUMPP for K=4.
+Thu Feb 20 21:54:44 2025: Clustering K=4 with mcl.
+Thu Feb 20 21:54:44 2025: no cutoff was used
+Thu Feb 20 21:54:44 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 21:55:06 2025: Working on K=5
+Thu Feb 20 21:55:06 2025: Executing CLUMPP for K=5.
+Thu Feb 20 21:55:42 2025: Clustering K=5 with mcl.
+Thu Feb 20 21:55:42 2025: no cutoff was used
+Thu Feb 20 21:55:42 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 21:56:16 2025: Working on K=6
+Thu Feb 20 21:56:16 2025: Executing CLUMPP for K=6.
+Thu Feb 20 21:57:04 2025: Clustering K=6 with mcl.
+Thu Feb 20 21:57:04 2025: cutoff used: 0.58
+Thu Feb 20 21:57:04 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 21:57:20 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 21:57:28 2025: Working on K=7
+Thu Feb 20 21:57:28 2025: Executing CLUMPP for K=7.
+Thu Feb 20 21:58:31 2025: Clustering K=7 with mcl.
+Thu Feb 20 21:58:31 2025: no cutoff was used
+Thu Feb 20 21:58:31 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 21:59:34 2025: Working on K=8
+Thu Feb 20 21:59:34 2025: Executing CLUMPP for K=8.
+Thu Feb 20 22:00:55 2025: Clustering K=8 with mcl.
+Thu Feb 20 22:00:55 2025: cutoff used: 0.74
+Thu Feb 20 22:00:55 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:01:19 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:01:32 2025: Working on K=9
+Thu Feb 20 22:01:32 2025: Executing CLUMPP for K=9.
+Thu Feb 20 22:03:15 2025: Clustering K=9 with mcl.
+Thu Feb 20 22:03:15 2025: cutoff used: 0.75
+Thu Feb 20 22:03:15 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:03:58 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:04:04 2025: Working on K=10
+Thu Feb 20 22:04:04 2025: Executing CLUMPP for K=10.
+Thu Feb 20 22:06:09 2025: Clustering K=10 with mcl.
+Thu Feb 20 22:06:09 2025: cutoff used: 0.76
+Thu Feb 20 22:06:09 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:06:39 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:06:55 2025: Working on K=11
+Thu Feb 20 22:06:55 2025: Executing CLUMPP for K=11.
+Thu Feb 20 22:09:48 2025: Clustering K=11 with mcl.
+Thu Feb 20 22:09:48 2025: cutoff used: 0.73
+Thu Feb 20 22:09:48 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:10:43 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:10:59 2025: Working on K=12
+Thu Feb 20 22:11:00 2025: Executing CLUMPP for K=12.
+Thu Feb 20 22:14:43 2025: Clustering K=12 with mcl.
+Thu Feb 20 22:14:43 2025: cutoff used: 0.71
+Thu Feb 20 22:14:43 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:15:58 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:16:07 2025: Working on K=13
+Thu Feb 20 22:16:07 2025: Executing CLUMPP for K=13.
+Thu Feb 20 22:19:38 2025: Clustering K=13 with mcl.
+Thu Feb 20 22:19:38 2025: cutoff used: 0.74
+Thu Feb 20 22:19:38 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:20:52 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:21:24 2025: Working on K=14
+Thu Feb 20 22:21:24 2025: Executing CLUMPP for K=14.
+Thu Feb 20 22:25:26 2025: Clustering K=14 with mcl.
+Thu Feb 20 22:25:26 2025: cutoff used: 0.72
+Thu Feb 20 22:25:26 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:27:41 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:27:49 2025: Working on K=15
+Thu Feb 20 22:27:49 2025: Executing CLUMPP for K=15.
+Thu Feb 20 22:32:26 2025: Clustering K=15 with mcl.
+Thu Feb 20 22:32:26 2025: cutoff used: 0.73
+Thu Feb 20 22:32:26 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:34:39 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:34:49 2025: Working on K=16
+Thu Feb 20 22:34:49 2025: Executing CLUMPP for K=16.
+Thu Feb 20 22:40:05 2025: Clustering K=16 with mcl.
+Thu Feb 20 22:40:05 2025: cutoff used: 0.71
+Thu Feb 20 22:40:05 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:43:52 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:43:57 2025: Working on K=17
+Thu Feb 20 22:43:57 2025: Executing CLUMPP for K=17.
+Thu Feb 20 22:49:56 2025: Clustering K=17 with mcl.
+Thu Feb 20 22:49:56 2025: cutoff used: 0.72
+Thu Feb 20 22:49:56 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 22:54:42 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 22:54:45 2025: Working on K=18
+Thu Feb 20 22:54:45 2025: Executing CLUMPP for K=18.
+Thu Feb 20 23:01:22 2025: Clustering K=18 with mcl.
+Thu Feb 20 23:01:22 2025: cutoff used: 0.69
+Thu Feb 20 23:01:22 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 23:06:42 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 23:06:45 2025: Working on K=19
+Thu Feb 20 23:06:45 2025: Executing CLUMPP for K=19.
+Thu Feb 20 23:14:05 2025: Clustering K=19 with mcl.
+Thu Feb 20 23:14:05 2025: cutoff used: 0.70
+Thu Feb 20 23:14:05 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 23:17:38 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 23:18:15 2025: Working on K=20
+Thu Feb 20 23:18:15 2025: Executing CLUMPP for K=20.
+Thu Feb 20 23:26:23 2025: Clustering K=20 with mcl.
+Thu Feb 20 23:26:23 2025: cutoff used: 0.72
+Thu Feb 20 23:26:23 2025: Executing CLUMPP for major cluster.
+Thu Feb 20 23:32:16 2025: Executing CLUMPP for minor clusters.
+Thu Feb 20 23:32:19 2025: Calling distruct for K=1.MajorCluster
+Thu Feb 20 23:32:19 2025: Calculating best Average Distance between K=1 and K=2..
+Thu Feb 20 23:32:19 2025: Calling distruct for K=2.MajorCluster
+Thu Feb 20 23:32:19 2025: Calculating best Average Distance between K=2 and K=3..
+Thu Feb 20 23:32:19 2025: Calling distruct for K=3.MajorCluster
+Thu Feb 20 23:32:20 2025: Calculating best Average Distance between K=3 and K=4..
+Thu Feb 20 23:32:20 2025: Calling distruct for K=4.MajorCluster
+Thu Feb 20 23:32:20 2025: Calculating best Average Distance between K=4 and K=5..
+Thu Feb 20 23:32:20 2025: Calling distruct for K=5.MajorCluster
+Thu Feb 20 23:32:21 2025: Calculating best Average Distance between K=5 and K=6..
+Thu Feb 20 23:32:23 2025: Calling distruct for K=6.MajorCluster
+Thu Feb 20 23:32:23 2025: Calculating best Average Distance between K=6 and K=7..
+Thu Feb 20 23:32:41 2025: Calling distruct for K=7.MajorCluster
+Thu Feb 20 23:32:41 2025: Calculating best Average Distance between K=7 and K=8..
+Thu Feb 20 23:35:23 2025: Calling distruct for K=8.MajorCluster
+Thu Feb 20 23:35:23 2025: Calculating best Average Distance between K=8 and K=9..
+Thu Feb 20 23:35:24 2025: Calling distruct for K=9.MajorCluster
+Thu Feb 20 23:35:24 2025: Calculating best Average Distance between K=9 and K=10..
+Thu Feb 20 23:35:24 2025: Calling distruct for K=10.MajorCluster
+Thu Feb 20 23:35:24 2025: Calculating best Average Distance between K=10 and K=11..
+Thu Feb 20 23:35:25 2025: Calling distruct for K=11.MajorCluster
+Thu Feb 20 23:35:25 2025: Calculating best Average Distance between K=11 and K=12..
+Thu Feb 20 23:35:25 2025: Calling distruct for K=12.MajorCluster
+Thu Feb 20 23:35:25 2025: Calculating best Average Distance between K=12 and K=13..
+Thu Feb 20 23:35:26 2025: Calling distruct for K=13.MajorCluster
+Thu Feb 20 23:35:26 2025: Calculating best Average Distance between K=13 and K=14..
+Thu Feb 20 23:35:26 2025: Calling distruct for K=14.MajorCluster
+Thu Feb 20 23:35:27 2025: Calculating best Average Distance between K=14 and K=15..
+Thu Feb 20 23:35:27 2025: Calling distruct for K=15.MajorCluster
+Thu Feb 20 23:35:27 2025: Calculating best Average Distance between K=15 and K=16..
+Thu Feb 20 23:35:27 2025: Calling distruct for K=16.MajorCluster
+Thu Feb 20 23:35:28 2025: Calculating best Average Distance between K=16 and K=17..
+Thu Feb 20 23:35:28 2025: Calling distruct for K=17.MajorCluster
+Thu Feb 20 23:35:28 2025: Calculating best Average Distance between K=17 and K=18..
+Thu Feb 20 23:35:29 2025: Calling distruct for K=18.MajorCluster
+Thu Feb 20 23:35:29 2025: Calculating best Average Distance between K=18 and K=19..
+Thu Feb 20 23:35:29 2025: Calling distruct for K=19.MajorCluster
+Thu Feb 20 23:35:30 2025: Calculating best Average Distance between K=19 and K=20..
+Thu Feb 20 23:35:30 2025: Calling distruct for K=20.MajorCluster
+Thu Feb 20 23:35:31 2025: Calculating best Average Distance between large cluster and K=6.MinorCluster1..
+Thu Feb 20 23:35:33 2025: Calling distruct for K=6.MinorCluster1
+Thu Feb 20 23:35:33 2025: Calculating best Average Distance between large cluster and K=8.MinorCluster1..
+Thu Feb 20 23:38:15 2025: Calling distruct for K=8.MinorCluster1
+Thu Feb 20 23:38:16 2025: Calculating best Average Distance between large cluster and K=9.MinorCluster1..
+Thu Feb 20 23:38:16 2025: Calling distruct for K=9.MinorCluster1
+Thu Feb 20 23:38:16 2025: Calculating best Average Distance between large cluster and K=9.MinorCluster2..
+Thu Feb 20 23:38:16 2025: Calling distruct for K=9.MinorCluster2
+Thu Feb 20 23:38:17 2025: Calculating best Average Distance between large cluster and K=10.MinorCluster1..
+Thu Feb 20 23:38:17 2025: Calling distruct for K=10.MinorCluster1
+Thu Feb 20 23:38:17 2025: Calculating best Average Distance between large cluster and K=10.MinorCluster2..
+Thu Feb 20 23:38:17 2025: Calling distruct for K=10.MinorCluster2
+Thu Feb 20 23:38:18 2025: Calculating best Average Distance between large cluster and K=11.MinorCluster1..
+Thu Feb 20 23:38:18 2025: Calling distruct for K=11.MinorCluster1
+Thu Feb 20 23:38:18 2025: Calculating best Average Distance between large cluster and K=11.MinorCluster2..
+Thu Feb 20 23:38:18 2025: Calling distruct for K=11.MinorCluster2
+Thu Feb 20 23:38:19 2025: Calculating best Average Distance between large cluster and K=11.MinorCluster3..
+Thu Feb 20 23:38:19 2025: Calling distruct for K=11.MinorCluster3
+Thu Feb 20 23:38:19 2025: Calculating best Average Distance between large cluster and K=12.MinorCluster1..
+Thu Feb 20 23:38:19 2025: Calling distruct for K=12.MinorCluster1
+Thu Feb 20 23:38:20 2025: Calculating best Average Distance between large cluster and K=12.MinorCluster2..
+Thu Feb 20 23:38:20 2025: Calling distruct for K=12.MinorCluster2
+Thu Feb 20 23:38:20 2025: Calculating best Average Distance between large cluster and K=13.MinorCluster1..
+Thu Feb 20 23:38:20 2025: Calling distruct for K=13.MinorCluster1
+Thu Feb 20 23:38:21 2025: Calculating best Average Distance between large cluster and K=14.MinorCluster1..
+Thu Feb 20 23:38:21 2025: Calling distruct for K=14.MinorCluster1
+Thu Feb 20 23:38:21 2025: Calculating best Average Distance between large cluster and K=15.MinorCluster1..
+Thu Feb 20 23:38:21 2025: Calling distruct for K=15.MinorCluster1
+Thu Feb 20 23:38:22 2025: Calculating best Average Distance between large cluster and K=16.MinorCluster1..
+Thu Feb 20 23:38:22 2025: Calling distruct for K=16.MinorCluster1
+Thu Feb 20 23:38:23 2025: Calculating best Average Distance between large cluster and K=17.MinorCluster1..
+Thu Feb 20 23:38:23 2025: Calling distruct for K=17.MinorCluster1
+Thu Feb 20 23:38:23 2025: Calculating best Average Distance between large cluster and K=18.MinorCluster1..
+Thu Feb 20 23:38:23 2025: Calling distruct for K=18.MinorCluster1
+Thu Feb 20 23:38:24 2025: Calculating best Average Distance between large cluster and K=19.MinorCluster1..
+Thu Feb 20 23:38:24 2025: Calling distruct for K=19.MinorCluster1
+Thu Feb 20 23:38:25 2025: Calculating best Average Distance between large cluster and K=20.MinorCluster1..
+Thu Feb 20 23:38:25 2025: Calling distruct for K=20.MinorCluster1
+Thu Feb 20 23:38:25 2025: Creating job summary PDF
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=1
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=2
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=3
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=4
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=5
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=6
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=7
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=8
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=9
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=10
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=11
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=12
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=13
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=14
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=15
+Thu Feb 20 23:38:25 2025: Creating job summary PDF for K=16
+Thu Feb 20 23:38:26 2025: Creating job summary PDF for K=17
+Thu Feb 20 23:38:26 2025: Creating job summary PDF for K=18
+Thu Feb 20 23:38:26 2025: Creating job summary PDF for K=19
+Thu Feb 20 23:38:26 2025: Creating job summary PDF for K=20
+Thu Feb 20 23:38:26 2025: Creating job zip file

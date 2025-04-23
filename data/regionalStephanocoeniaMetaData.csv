@@ -1,0 +1,577 @@
+﻿sample,oldID,tubeID,region,site,siteID,date,species,latDD,longDD,depthFt,depthM,depthZone,sequenced
+SFK001,22-VIII-19-1-002,SFK001,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,115,35.1,Mesophotic,Y
+SFK002,22-VIII-19-1-004,SFK002,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,113,34.4,Mesophotic,Y
+SFK003,22-VIII-19-1-006,SFK003,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,115,35.1,Mesophotic,Y
+SFK004,22-VIII-19-1-008,SFK004,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,110,33.5,Mesophotic,Y
+SFK005,22-VIII-19-1-009,SFK005,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,113,34.4,Mesophotic,Y
+SFK006,22-VIII-19-1-010,SFK006,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,113,34.4,Mesophotic,Y
+SFK007,22-VIII-19-1-011,SFK007,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,114,34.7,Mesophotic,Y
+SFK008,22-VIII-19-1-012,SFK008,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,112,34.1,Mesophotic,Y
+SFK009,22-VIII-19-1-016,SFK009,FKNMS,Tortugas Bank,Site 17,8/22/19,Stephanocoenia intersepta,24.65211,-83.103095,113,34.4,Mesophotic,Y
+SFK010,22-VIII-19-2-006,SFK010,FKNMS,Tortugas Bank,Site 33,8/22/19,Stephanocoenia intersepta,24.66019667,-83.07890333,48,14.6,Shallow,Y
+SFK011,23-VIII-19-1-003,SFK011,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,101,30.8,Mesophotic,Y
+SFK012,23-VIII-19-1-017,SFK012,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,97,29.6,Shallow,Y
+SFK013,23-VIII-19-1-018,SFK013,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,95,29,Shallow,Y
+SFK014,23-VIII-19-1-019,SFK014,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,99,30.2,Mesophotic,Y
+SFK015,23-VIII-19-1-020,SFK015,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,100,30.5,Mesophotic,Y
+SFK016,23-VIII-19-1-021,SFK016,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,98,29.9,Shallow,Y
+SFK017,23-VIII-19-1-022,SFK017,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,100,30.5,Mesophotic,Y
+SFK018,23-VIII-19-1-023,SFK018,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,101,30.8,Mesophotic,Y
+SFK019,23-VIII-19-1-025,SFK019,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,100,30.5,Mesophotic,Y
+SFK020,23-VIII-19-1-026,SFK020,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,100,30.5,Mesophotic,Y
+SFK021,23-VIII-19-1-027,SFK021,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,100,30.5,Mesophotic,Y
+SFK022,23-VIII-19-1-028,SFK022,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,102,31.1,Mesophotic,Y
+SFK023,23-VIII-19-1-029,SFK023,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,102,31.1,Mesophotic,Y
+SFK024,23-VIII-19-1-030,SFK024,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,101,30.8,Mesophotic,Y
+SFK025,23-VIII-19-1-031,SFK025,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.64042,-83.10294333,100,30.5,Mesophotic,Y
+SFK026,23-VIII-19-2-022,SFK026,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.67518667,-83.068585,69,21,Shallow,Y
+SFK027,23-VIII-19-2-025,SFK027,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.67518667,-83.068585,67,20.4,Shallow,Y
+SFK028,23-VIII-19-2-036,SFK028,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.67518667,-83.068585,67,20.4,Shallow,Y
+SFK029,23-VIII-19-4-026,SFK029,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.640415,-83.10294667,99,30.2,Mesophotic,Y
+SFK030,23-VIII-19-4-030,SFK030,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.640415,-83.10294667,99,30.2,Mesophotic,Y
+SFK031,23-VIII-19-4-033,SFK031,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.640415,-83.10294667,94,28.7,Shallow,Y
+SFK032,23-VIII-19-4-034,SFK032,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.640415,-83.10294667,100,30.5,Mesophotic,Y
+SFK033,23-VIII-19-4-035,SFK033,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.640415,-83.10294667,100,30.5,Mesophotic,Y
+SFK034,23-VIII-19-4-037,SFK034,FKNMS,Tortugas Bank,Site 35/36,8/23/19,Stephanocoenia intersepta,24.640415,-83.10294667,97,29.6,Shallow,Y
+SFK035,23-VIII-19-6-002,SFK035,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.67518667,-83.068585,68,20.7,Shallow,Y
+SFK036,23-VIII-19-6-003,SFK036,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.67518667,-83.068585,67,20.4,Shallow,Y
+SFK037,23-VIII-19-6-004,SFK037,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.67518667,-83.068585,69,21,Shallow,Y
+SFK038,23-VIII-19-6-006,SFK038,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.67518667,-83.068585,67,20.4,Shallow,Y
+SFK039,23-VIII-19-7-003,SFK039,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,67,20.4,Shallow,Y
+SFK040,23-VIII-19-7-004,SFK040,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,66,20.1,Shallow,Y
+SFK041,23-VIII-19-7-005,SFK041,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,67,20.4,Shallow,Y
+SFK042,23-VIII-19-7-006,SFK042,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,67,20.4,Shallow,Y
+SFK043,23-VIII-19-7-007,SFK043,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,67,20.4,Shallow,Y
+SFK044,23-VIII-19-7-009,SFK044,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,64,19.5,Shallow,Y
+SFK045,23-VIII-19-7-010,SFK045,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,65,19.8,Shallow,Y
+SFK046,23-VIII-19-7-011,SFK046,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,55,16.8,Shallow,Y
+SFK047,23-VIII-19-7-013,SFK047,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,65,19.8,Shallow,Y
+SFK048,23-VIII-19-7-014,SFK048,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,59,18,Shallow,Y
+SFK049,23-VIII-19-7-015,SFK049,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,58,17.7,Shallow,Y
+SFK050,23-VIII-19-7-016,SFK050,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,65,19.8,Shallow,Y
+SFK051,23-VIII-19-7-017,SFK051,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,66,20.1,Shallow,Y
+SFK052,23-VIII-19-7-018,SFK052,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,67,20.4,Shallow,Y
+SFK053,23-VIII-19-7-019,SFK053,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,61,18.6,Shallow,Y
+SFK054,23-VIII-19-7-020,SFK054,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,60,18.3,Shallow,Y
+SFK055,23-VIII-19-7-021,SFK055,FKNMS,Tortugas Bank,Site 37,8/23/19,Stephanocoenia intersepta,24.65691333,-83.10079667,57,17.4,Shallow,Y
+SFK056,24-VIII-19-1-008,SFK056,FKNMS,Riley's Hump,Site 18,8/24/19,Stephanocoenia intersepta,24.49396,-83.09607833,112,34.1,Mesophotic,Y
+SFK057,24-VIII-19-1-011,SFK057,FKNMS,Riley's Hump,Site 18,8/24/19,Stephanocoenia intersepta,24.49396,-83.09607833,111,33.8,Mesophotic,Y
+SFK058,24-VIII-19-1-038,SFK058,FKNMS,Riley's Hump,Site 18,8/24/19,Stephanocoenia intersepta,24.49396,-83.09607833,108,32.9,Mesophotic,Y
+SFK059,24-VIII-19-1-040,SFK059,FKNMS,Riley's Hump,Site 18,8/24/19,Stephanocoenia intersepta,24.49396,-83.09607833,105,32,Mesophotic,Y
+SFK060,24-VIII-19-1-042,SFK060,FKNMS,Riley's Hump,Site 18,8/24/19,Stephanocoenia intersepta,24.49396,-83.09607833,103,31.4,Mesophotic,Y
+SFK061,24-VIII-19-3-018,SFK061,FKNMS,Riley's Hump,Site 19,8/24/19,Stephanocoenia intersepta,24.48925667,-83.122695,123,37.5,Mesophotic,Y
+SFK062,24-VIII-19-4-001,SFK062,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,91,27.7,Shallow,Y
+SFK063,24-VIII-19-4-002,SFK063,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,92,28,Shallow,Y
+SFK064,24-VIII-19-4-003,SFK064,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,91,27.7,Shallow,Y
+SFK065,24-VIII-19-4-004,SFK065,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,90,27.4,Shallow,Y
+SFK066.1,24-VIII-19-4-005,SFK066,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,91,27.7,Shallow,Y
+SFK066.2,24-VIII-19-4-005,SFK066,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,91,27.7,Shallow,Y
+SFK066.3,24-VIII-19-4-005,SFK066,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,91,27.7,Shallow,Y
+SFK067,24-VIII-19-4-006,SFK067,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,90,27.4,Shallow,Y
+SFK068,24-VIII-19-4-008,SFK068,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,90,27.4,Shallow,Y
+SFK069,24-VIII-19-4-009,SFK069,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,89,27.1,Shallow,Y
+SFK070,24-VIII-19-4-016,SFK070,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,85,25.9,Shallow,Y
+SFK071,24-VIII-19-4-017,SFK071,FKNMS,Riley's Hump,Site 39,8/24/19,Stephanocoenia intersepta,24.51135833,-83.09516,86,26.2,Shallow,Y
+SFK072,25-VIII-19-2-001,SFK072,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK073,25-VIII-19-2-002,SFK073,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK074,25-VIII-19-2-003,SFK074,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,84,25.6,Shallow,Y
+SFK075,25-VIII-19-2-004,SFK075,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,85,25.9,Shallow,Y
+SFK076,25-VIII-19-2-005,SFK076,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,85,25.9,Shallow,Y
+SFK077,25-VIII-19-2-006,SFK077,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,85,25.9,Shallow,Y
+SFK078,25-VIII-19-2-007,SFK078,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK079,25-VIII-19-2-008,SFK079,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,84,25.6,Shallow,Y
+SFK080,25-VIII-19-2-009,SFK080,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK081,25-VIII-19-2-010,SFK081,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK082,25-VIII-19-2-011,SFK082,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,87,26.5,Shallow,Y
+SFK083,25-VIII-19-2-012,SFK083,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK084,25-VIII-19-2-013,SFK084,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK085,25-VIII-19-2-014,SFK085,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,85,25.9,Shallow,Y
+SFK086,25-VIII-19-2-015,SFK086,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,85,25.9,Shallow,Y
+SFK087,25-VIII-19-2-016,SFK087,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,85,25.9,Shallow,Y
+SFK088,25-VIII-19-2-017,SFK088,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,83,25.3,Shallow,Y
+SFK089,25-VIII-19-2-018,SFK089,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK090,25-VIII-19-2-019,SFK090,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,85,25.9,Shallow,Y
+SFK091,25-VIII-19-2-020,SFK091,FKNMS,Riley's Hump,Site 40,8/25/19,Stephanocoenia intersepta,24.49239333,-83.12151333,86,26.2,Shallow,Y
+SFK092,25-VIII-19-5-001,SFK092,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,117,35.7,Mesophotic,Y
+SFK093,25-VIII-19-5-004,SFK093,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,113,34.4,Mesophotic,Y
+SFK094,25-VIII-19-5-005,SFK094,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,107,32.6,Mesophotic,Y
+SFK095,25-VIII-19-5-008,SFK095,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,101,30.8,Mesophotic,Y
+SFK096,25-VIII-19-5-013,SFK096,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,108,32.9,Mesophotic,Y
+SFK097,25-VIII-19-5-014,SFK097,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,110,33.5,Mesophotic,Y
+SFK098,25-VIII-19-5-016,SFK098,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,107,32.6,Mesophotic,Y
+SFK099,25-VIII-19-5-018,SFK099,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,105,32,Mesophotic,Y
+SFK100,25-VIII-19-5-020,SFK100,FKNMS,Riley's Hump,Site 41,8/25/19,Stephanocoenia intersepta,24.487965,-83.1139,102,31.1,Mesophotic,Y
+SFK101,26-VIII-19-1-003,SFK101,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,115,35.1,Mesophotic,Y
+SFK102,26-VIII-19-1-004,SFK102,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,114,34.7,Mesophotic,Y
+SFK103,26-VIII-19-1-006,SFK103,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,112,34.1,Mesophotic,Y
+SFK104,26-VIII-19-1-007,SFK104,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,110,33.5,Mesophotic,Y
+SFK105,26-VIII-19-1-011,SFK105,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,107,32.6,Mesophotic,Y
+SFK106,26-VIII-19-1-013,SFK106,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,106,32.3,Mesophotic,Y
+SFK107,26-VIII-19-1-016,SFK107,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,107,32.6,Mesophotic,Y
+SFK108,26-VIII-19-1-017,SFK108,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,108,32.9,Mesophotic,Y
+SFK109,26-VIII-19-1-019,SFK109,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,108,32.9,Mesophotic,Y
+SFK110,26-VIII-19-1-020,SFK110,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,107,32.6,Mesophotic,Y
+SFK111,26-VIII-19-1-022,SFK111,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,107,32.6,Mesophotic,Y
+SFK112,26-VIII-19-1-023,SFK112,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,109,33.2,Mesophotic,Y
+SFK113,26-VIII-19-1-024,SFK113,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,109,33.2,Mesophotic,Y
+SFK114,26-VIII-19-1-025,SFK114,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,110,33.5,Mesophotic,Y
+SFK115,26-VIII-19-1-029,SFK115,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,110,33.5,Mesophotic,Y
+SFK116,26-VIII-19-1-031,SFK116,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,109,33.2,Mesophotic,Y
+SFK117,26-VIII-19-1-033,SFK117,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,106,32.3,Mesophotic,Y
+SFK118,26-VIII-19-1-034,SFK118,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,105,32,Mesophotic,Y
+SFK119,26-VIII-19-1-035,SFK119,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,104,31.7,Mesophotic,Y
+SFK120,26-VIII-19-1-036,SFK120,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,103,31.4,Mesophotic,Y
+SFK121,26-VIII-19-1-038,SFK121,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,104,31.7,Mesophotic,Y
+SFK122,26-VIII-19-1-040,SFK122,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,106,32.3,Mesophotic,Y
+SFK123,26-VIII-19-1-041,SFK123,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,106,32.3,Mesophotic,Y
+SFK124,26-VIII-19-1-044,SFK124,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,107,32.6,Mesophotic,Y
+SFK125,26-VIII-19-1-046,SFK125,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,110,33.5,Mesophotic,Y
+SFK126,26-VIII-19-1-048,SFK126,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,107,32.6,Mesophotic,Y
+SFK127,26-VIII-19-1-049,SFK127,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.49395667,-81.58831167,106,32.3,Mesophotic,Y
+SFK128,26-VIII-19-2-003,SFK128,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,60,18.3,Shallow,Y
+SFK129,26-VIII-19-2-004,SFK129,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,60,18.3,Shallow,Y
+SFK130,26-VIII-19-2-008,SFK130,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK131,26-VIII-19-2-010,SFK131,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK132,26-VIII-19-2-012,SFK132,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,58,17.7,Shallow,Y
+SFK133,26-VIII-19-2-014,SFK133,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK134,26-VIII-19-2-016,SFK134,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,58,17.7,Shallow,Y
+SFK135,26-VIII-19-2-018,SFK135,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,58,17.7,Shallow,Y
+SFK136,26-VIII-19-2-020,SFK136,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,58,17.7,Shallow,Y
+SFK137,26-VIII-19-2-022,SFK137,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,58,17.7,Shallow,Y
+SFK138,26-VIII-19-2-024,SFK138,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK139,26-VIII-19-2-026,SFK139,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK140,26-VIII-19-2-027,SFK140,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,61,18.6,Shallow,Y
+SFK141,26-VIII-19-2-028,SFK141,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK142,26-VIII-19-2-029,SFK142,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK143,26-VIII-19-2-031,SFK143,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK144,26-VIII-19-2-034,SFK144,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,58,17.7,Shallow,Y
+SFK145,26-VIII-19-2-037,SFK145,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,56,17.1,Shallow,Y
+SFK146,26-VIII-19-2-039,SFK146,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,57,17.4,Shallow,Y
+SFK147,26-VIII-19-2-041,SFK147,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK148,26-VIII-19-2-043,SFK148,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,57,17.4,Shallow,Y
+SFK149,26-VIII-19-2-044,SFK149,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,59,18,Shallow,Y
+SFK150,26-VIII-19-2-047,SFK150,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,57,17.4,Shallow,Y
+SFK151,26-VIII-19-2-051,SFK151,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,57,17.4,Shallow,Y
+SFK152,26-VIII-19-2-055,SFK152,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,61,18.6,Shallow,Y
+SFK153,26-VIII-19-2-056,SFK153,FKNMS,Lower Keys,Site 46,8/26/19,Stephanocoenia intersepta,24.49297,-81.59892667,60,18.3,Shallow,Y
+SFK154,26-VIII-19-3-014,SFK154,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.494035,-81.58790833,106,32.3,Mesophotic,Y
+SFK155,26-VIII-19-3-016,SFK155,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.494035,-81.58790833,106,32.3,Mesophotic,Y
+SFK156,26-VIII-19-3-018,SFK156,FKNMS,Lower Keys,Site 45,8/26/19,Stephanocoenia intersepta,24.494035,-81.58790833,106,32.3,Mesophotic,Y
+SFK157,26-VIII-19-4-001,SFK157,FKNMS,Lower Keys,Site 47,8/26/19,Stephanocoenia intersepta,24.49105167,-81.60602833,62,18.9,Shallow,Y
+SFK158,26-VIII-19-4-003,SFK158,FKNMS,Lower Keys,Site 47,8/26/19,Stephanocoenia intersepta,24.49105167,-81.60602833,60,18.3,Shallow,Y
+SFK159,26-VIII-19-4-004,SFK159,FKNMS,Lower Keys,Site 47,8/26/19,Stephanocoenia intersepta,24.49105167,-81.60602833,63,19.2,Shallow,Y
+SFK160,26-VIII-19-4-005,SFK160,FKNMS,Lower Keys,Site 47,8/26/19,Stephanocoenia intersepta,24.49105167,-81.60602833,59,18,Shallow,Y
+SFK161,27-VIII-19-2-011,SFK161,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,78,23.8,Shallow,Y
+SFK162.1,27-VIII-19-2-013,SFK162,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,74,22.6,Shallow,Y
+SFK162.2,27-VIII-19-2-013,SFK162,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,74,22.6,Shallow,Y
+SFK162.3,27-VIII-19-2-013,SFK162,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,74,22.6,Shallow,Y
+SFK163,27-VIII-19-2-015,SFK163,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,68,20.7,Shallow,Y
+SFK164,27-VIII-19-2-016,SFK164,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,65,19.8,Shallow,Y
+SFK165,27-VIII-19-2-019,SFK165,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,65,19.8,Shallow,Y
+SFK166,27-VIII-19-2-020,SFK166,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,65,19.8,Shallow,Y
+SFK167,27-VIII-19-2-022,SFK167,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,71,21.6,Shallow,Y
+SFK168,27-VIII-19-2-023,SFK168,FKNMS,Upper Keys,Site 51,8/27/19,Stephanocoenia intersepta,25.14415667,-80.252055,71,21.6,Shallow,Y
+SFK169,27-VIII-19-4-014,SFK169,FKNMS,Upper Keys,Ian's Lumps Site 52,8/27/19,Stephanocoenia intersepta,25.15823333,-80.22064,142,43.3,Mesophotic,Y
+SFK170,27-VIII-19-4-015,SFK170,FKNMS,Upper Keys,Ian's Lumps Site 52,8/27/19,Stephanocoenia intersepta,25.15823333,-80.22064,142,43.3,Mesophotic,Y
+SFK171,27-VIII-19-4-016,SFK171,FKNMS,Upper Keys,Ian's Lumps Site 52,8/27/19,Stephanocoenia intersepta,25.15823333,-80.22064,142,43.3,Mesophotic,Y
+SFK172,27-VIII-19-4-017,SFK172,FKNMS,Upper Keys,Ian's Lumps Site 52,8/27/19,Stephanocoenia intersepta,25.15823333,-80.22064,144,43.9,Mesophotic,Y
+SFK173,27-VIII-19-5-001,SFK173,FKNMS,Upper Keys,Site 49,8/27/19,Stephanocoenia intersepta,25.14404833,-80.25258833,66,20.1,Shallow,Y
+SFK174,27-VIII-19-5-002,SFK174,FKNMS,Upper Keys,Site 49,8/27/19,Stephanocoenia intersepta,25.14404833,-80.25258833,62,18.9,Shallow,Y
+SFK175,27-VIII-19-5-005,SFK175,FKNMS,Upper Keys,Site 49,8/27/19,Stephanocoenia intersepta,25.14404833,-80.25258833,64,19.5,Shallow,Y
+SFK176,27-VIII-19-5-006,SFK176,FKNMS,Upper Keys,Site 49,8/27/19,Stephanocoenia intersepta,25.14404833,-80.25258833,67,20.4,Shallow,Y
+SFK177,27-VIII-19-5-007,SFK177,FKNMS,Upper Keys,Site 49,8/27/19,Stephanocoenia intersepta,25.14404833,-80.25258833,61,18.6,Shallow,Y
+SFK178,27-VIII-19-5-009,SFK178,FKNMS,Upper Keys,Site 49,8/27/19,Stephanocoenia intersepta,25.14404833,-80.25258833,62,18.9,Shallow,Y
+SFK179,27-VIII-19-5-011,SFK179,FKNMS,Upper Keys,Site 49,8/27/19,Stephanocoenia intersepta,25.14404833,-80.25258833,60,18.3,Shallow,Y
+SFK180,28-VIII-19-1-007,SFK180,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.217545,-80.19341333,137,41.8,Mesophotic,Y
+SFK181,28-VIII-19-1-011,SFK181,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.217545,-80.19341333,137,41.8,Mesophotic,Y
+SFK182,28-VIII-19-1-021,SFK182,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.217545,-80.19341333,145,44.2,Mesophotic,Y
+SFK183,28-VIII-19-2-001,SFK183,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,91,27.7,Shallow,Y
+SFK184,28-VIII-19-2-003,SFK184,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,89,27.1,Shallow,Y
+SFK185,28-VIII-19-2-005,SFK185,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,85,25.9,Shallow,Y
+SFK186,28-VIII-19-2-007,SFK186,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,81,24.7,Shallow,Y
+SFK187,28-VIII-19-2-009,SFK187,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,87,26.5,Shallow,Y
+SFK188,28-VIII-19-2-010,SFK188,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,87,26.5,Shallow,Y
+SFK189,28-VIII-19-2-011,SFK189,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,90,27.4,Shallow,Y
+SFK190,28-VIII-19-2-012,SFK190,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,89,27.1,Shallow,Y
+SFK191,28-VIII-19-2-014,SFK191,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,93,28.3,Shallow,Y
+SFK192,28-VIII-19-2-015,SFK192,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,91,27.7,Shallow,Y
+SFK193,28-VIII-19-2-016,SFK193,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22056667,-80.200865,90,27.4,Shallow,Y
+SFK194,28-VIII-19-3-001,SFK194,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,145,44.2,Mesophotic,Y
+SFK195,28-VIII-19-3-002,SFK195,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,149,45.4,Mesophotic,Y
+SFK196,28-VIII-19-3-003,SFK196,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,149,45.4,Mesophotic,Y
+SFK197,28-VIII-19-3-004,SFK197,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,144,43.9,Mesophotic,Y
+SFK198,28-VIII-19-3-005,SFK198,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,148,45.1,Mesophotic,Y
+SFK199,28-VIII-19-3-006,SFK199,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,147,44.8,Mesophotic,Y
+SFK200,28-VIII-19-3-007,SFK200,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,147,44.8,Mesophotic,Y
+SFK201,28-VIII-19-3-008,SFK201,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,146,44.5,Mesophotic,Y
+SFK202,28-VIII-19-3-009,SFK202,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,146,44.5,Mesophotic,Y
+SFK203,28-VIII-19-3-010,SFK203,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,146,44.5,Mesophotic,Y
+SFK204,28-VIII-19-3-011,SFK204,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,149,45.4,Mesophotic,Y
+SFK205.1,28-VIII-19-3-012,SFK205,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,148,45.1,Mesophotic,Y
+SFK205.2,28-VIII-19-3-012,SFK205,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,148,45.1,Mesophotic,Y
+SFK205.3,28-VIII-19-3-012,SFK205,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,148,45.1,Mesophotic,Y
+SFK206,28-VIII-19-3-013,SFK206,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,142,43.3,Mesophotic,Y
+SFK207,28-VIII-19-3-014,SFK207,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,145,44.2,Mesophotic,Y
+SFK208,28-VIII-19-3-015,SFK208,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,146,44.5,Mesophotic,Y
+SFK209,28-VIII-19-3-016,SFK209,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,144,43.9,Mesophotic,Y
+SFK210,28-VIII-19-3-017,SFK210,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,144,43.9,Mesophotic,Y
+SFK211,28-VIII-19-3-018,SFK211,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,143,43.6,Mesophotic,Y
+SFK212,28-VIII-19-3-019,SFK212,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,140,42.7,Mesophotic,Y
+SFK213,28-VIII-19-3-020,SFK213,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,139,42.4,Mesophotic,Y
+SFK214,28-VIII-19-3-021,SFK214,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,137,41.8,Mesophotic,Y
+SFK215,28-VIII-19-3-022,SFK215,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,141,43,Mesophotic,Y
+SFK216,28-VIII-19-3-023,SFK216,FKNMS,Upper Keys,Site 1,8/28/19,Stephanocoenia intersepta,25.21752,-80.19336833,141,43,Mesophotic,Y
+SFK217,28-VIII-19-4-017,SFK217,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22036,-80.20094333,92,28,Shallow,Y
+SFK218,28-VIII-19-4-018,SFK218,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22036,-80.20094333,89,27.1,Shallow,Y
+SFK219,28-VIII-19-4-020,SFK219,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22036,-80.20094333,91,27.7,Shallow,Y
+SFK220,28-VIII-19-4-022,SFK220,FKNMS,Upper Keys,Site 48,8/28/19,Stephanocoenia intersepta,25.22036,-80.20094333,84,25.6,Shallow,Y
+SGM001,SGM001,SGM001,FGBNMS,WFGB,WBMeso1,7/9/18,Stephanocoenia intersepta,27.8751,-93.82035,145,44.2,Mesophotic,Y
+SGM002,SGM003,SGM002,FGBNMS,WFGB,WBMeso1,7/9/18,Stephanocoenia intersepta,27.8751,-93.82035,145,44.2,Mesophotic,Y
+SGM003,SGM004,SGM003,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,158,48.2,Mesophotic,Y
+SGM004,SGM005,SGM004,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,158,48.2,Mesophotic,Y
+SGM005,SGM006,SGM005,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,158,48.2,Mesophotic,Y
+SGM006,SGM008,SGM006,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,158,48.2,Mesophotic,Y
+SGM007,SGM009,SGM007,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,157,47.9,Mesophotic,Y
+SGM008,SGM010,SGM008,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,156,47.5,Mesophotic,Y
+SGM009,SGM011,SGM009,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,158,48.2,Mesophotic,Y
+SGM010,SGM012,SGM010,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,157,47.9,Mesophotic,Y
+SGM011,SGM013,SGM011,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,156,47.5,Mesophotic,Y
+SGM012,SGM014,SGM012,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,157,47.9,Mesophotic,Y
+SGM013,SGM015,SGM013,FGBNMS,McGrail,MBMeso2,7/11/18,Stephanocoenia intersepta,27.963,-92.59352,157,47.9,Mesophotic,N
+SGM014,SGM016,SGM014,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,162,49.4,Mesophotic,Y
+SGM015,SGM017,SGM015,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,160,48.8,Mesophotic,Y
+SGM016,SGM018,SGM016,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,160,48.8,Mesophotic,Y
+SGM017,SGM019,SGM017,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,161,49.1,Mesophotic,Y
+SGM018,SGM020,SGM018,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,161,49.1,Mesophotic,Y
+SGM019,SGM021,SGM019,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,160,48.8,Mesophotic,Y
+SGM020,SGM022,SGM020,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,159,48.5,Mesophotic,Y
+SGM021,SGM023,SGM021,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,159,48.5,Mesophotic,Y
+SGM022,SGM024,SGM022,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,159,48.5,Mesophotic,Y
+SGM023,SGM025,SGM023,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,159,48.5,Mesophotic,Y
+SGM024,SGM027,SGM024,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,162,49.4,Mesophotic,Y
+SGM025,SGM028,SGM025,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,157,47.9,Mesophotic,Y
+SGM026,SGM029,SGM026,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,158,48.2,Mesophotic,Y
+SGM027.1,SGM030,SGM027,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,157,47.9,Mesophotic,Y
+SGM027.2,SGM030.2,SGM027,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,157,47.9,Mesophotic,Y
+SGM027.3,SGM030.3,SGM027,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,157,47.9,Mesophotic,Y
+SGM028,SGM031,SGM028,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,157,47.9,Mesophotic,Y
+SGM029,SGM033,SGM029,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,157,47.9,Mesophotic,Y
+SGM030,SGM034,SGM030,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,158,48.2,Mesophotic,Y
+SGM031,SGM035,SGM031,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,162,49.4,Mesophotic,Y
+SGM032,SGM036,SGM032,FGBNMS,McGrail,MBMeso3,7/11/18,Stephanocoenia intersepta,27.96299,-92.59262,162,49.4,Mesophotic,Y
+SGM033,SGM037,SGM033,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM034,SGM038,SGM034,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,158,48.2,Mesophotic,Y
+SGM035,SGM039,SGM035,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM036,SGM040,SGM036,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,159,48.5,Mesophotic,Y
+SGM037,SGM041,SGM037,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM038,SGM042,SGM038,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM039,SGM043,SGM039,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM040,SGM044,SGM040,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,158,48.2,Mesophotic,Y
+SGM041,SGM045,SGM041,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM042,SGM046,SGM042,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM043,SGM047,SGM043,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM044,SGM048,SGM044,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM045,SGM049,SGM045,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,158,48.2,Mesophotic,Y
+SGM046.1,SGM050,SGM046,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM046.2,SGM050.2,SGM046,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM046.3,SGM050.3,SGM046,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM047,SGM051,SGM047,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM048,SGM052,SGM048,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,156,47.5,Mesophotic,Y
+SGM049,SGM053,SGM049,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM050,SGM054,SGM050,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM051,SGM055,SGM051,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM052,SGM056,SGM052,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,154,46.9,Mesophotic,Y
+SGM053,SGM057,SGM053,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,154,46.9,Mesophotic,Y
+SGM054,SGM058,SGM054,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM055,SGM059,SGM055,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM056,SGM060,SGM056,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM057,SGM061,SGM057,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,155,47.2,Mesophotic,Y
+SGM058,SGM062,SGM058,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM059,SGM063,SGM059,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,156,47.5,Mesophotic,Y
+SGM060,SGM064,SGM060,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,156,47.5,Mesophotic,Y
+SGM061,SGM065,SGM061,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,154,46.9,Mesophotic,Y
+SGM062,SGM066,SGM062,FGBNMS,Bright,BBMeso1,7/12/18,Stephanocoenia intersepta,27.89489,-93.30522,157,47.9,Mesophotic,Y
+SGM063,SGM067,SGM063,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,149,45.4,Mesophotic,Y
+SGM064,SGM068,SGM064,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,143,43.6,Mesophotic,Y
+SGM065,SGM069,SGM065,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,142,43.3,Mesophotic,Y
+SGM066,SGM070,SGM066,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,139,42.4,Mesophotic,Y
+SGM067,SGM071,SGM067,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,141,43,Mesophotic,Y
+SGM068,SGM072,SGM068,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,138,42.1,Mesophotic,Y
+SGM069,SGM073,SGM069,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,142,43.3,Mesophotic,Y
+SGM070,SGM074,SGM070,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,141,43,Mesophotic,Y
+SGM071,SGM075,SGM071,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,150,45.7,Mesophotic,Y
+SGM072,SGM076,SGM072,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,147,44.8,Mesophotic,Y
+SGM073,SGM077,SGM073,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,144,43.9,Mesophotic,Y
+SGM074,SGM078,SGM074,FGBNMS,EFGB,EBMeso1,7/13/18,Stephanocoenia intersepta,27.91102,-93.59668,145,44.2,Mesophotic,Y
+SGM075,SGM079,SGM075,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,142,43.3,Mesophotic,Y
+SGM076,SGM080,SGM076,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,142,43.3,Mesophotic,Y
+SGM077,SGM081,SGM077,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,142,43.3,Mesophotic,Y
+SGM078,SGM083,SGM078,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,144,43.9,Mesophotic,Y
+SGM079,SGM084,SGM079,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,145,44.2,Mesophotic,Y
+SGM080,SGM085,SGM080,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,144,43.9,Mesophotic,Y
+SGM081,SGM086,SGM081,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,145,44.2,Mesophotic,Y
+SGM082,SGM088,SGM082,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,147,44.8,Mesophotic,Y
+SGM083,SGM089,SGM083,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,138,42.1,Mesophotic,Y
+SGM084,SGM090,SGM084,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,143,43.6,Mesophotic,Y
+SGM085,SGM091,SGM085,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,146,44.5,Mesophotic,Y
+SGM086,SGM092,SGM086,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,145,44.2,Mesophotic,Y
+SGM087,SGM093,SGM087,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,146,44.5,Mesophotic,Y
+SGM088,SGM095,SGM088,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,146,44.5,Mesophotic,Y
+SGM089,SGM096,SGM089,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,148,45.1,Mesophotic,Y
+SGM090,SGM097,SGM090,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,148,45.1,Mesophotic,Y
+SGM091,SGM098,SGM091,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,147,44.8,Mesophotic,Y
+SGM092,SGM099,SGM092,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,149,45.4,Mesophotic,Y
+SGM093,SGM100,SGM093,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,147,44.8,Mesophotic,Y
+SGM094,SGM101,SGM094,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,147,44.8,Mesophotic,Y
+SGM095,SGM102,SGM095,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,145,44.2,Mesophotic,Y
+SGM096,SGM103,SGM096,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,147,44.8,Mesophotic,Y
+SGM097,SGM104,SGM097,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,147,44.8,Mesophotic,Y
+SGM098,SGM106,SGM098,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,149,45.4,Mesophotic,Y
+SGM099,SGM107,SGM099,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,149,45.4,Mesophotic,Y
+SGM100,SGM108,SGM100,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,147,44.8,Mesophotic,Y
+SGM101,SGM109,SGM101,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,149,45.4,Mesophotic,Y
+SGM102,SGM110,SGM102,FGBNMS,WFGB,WBMeso1,7/13/18,Stephanocoenia intersepta,27.8751,-93.82035,146,44.5,Mesophotic,Y
+SGM103,SGM114,SGM103,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,152,46.3,Mesophotic,Y
+SGM104,SGM115,SGM104,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,152,46.3,Mesophotic,Y
+SGM105,SGM116,SGM105,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,71,21.6,Shallow,Y
+SGM106,SGM118,SGM106,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,72,21.9,Shallow,Y
+SGM107,SGM119,SGM107,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,66,20.1,Shallow,Y
+SGM108,SGM121,SGM108,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,66,20.1,Shallow,Y
+SGM109,SGM122,SGM109,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,64,19.5,Shallow,Y
+SGM110,SGM124,SGM110,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,156,47.5,Mesophotic,Y
+SGM111,SGM125,SGM111,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,155,47.2,Mesophotic,Y
+SGM112,SGM126,SGM112,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,154,46.9,Mesophotic,Y
+SGM113,SGM128,SGM113,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,153,46.6,Mesophotic,Y
+SGM114,SGM129,SGM114,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,148,45.1,Mesophotic,Y
+SGM115,SGM130,SGM115,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,67,20.4,Shallow,Y
+SGM116,SGM131,SGM116,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,68,20.7,Shallow,Y
+SGM117,SGM132,SGM117,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,69,21,Shallow,Y
+SGM118,SGM133,SGM118,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,67,20.4,Shallow,Y
+SGM119,SGM134,SGM119,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,71,21.6,Shallow,Y
+SGM120,SGM135,SGM120,FGBNMS,EFGB,EBShal1,7/31/21,Stephanocoenia intersepta,27.9114,-93.59821,69,21,Shallow,Y
+SGM121,SGM136,SGM121,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,161,49.1,Mesophotic,Y
+SGM122,SGM138,SGM122,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,150,45.7,Mesophotic,Y
+SGM123,SGM139,SGM123,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,149,45.4,Mesophotic,Y
+SGM124,SGM140,SGM124,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,154,46.9,Mesophotic,Y
+SGM125,SGM141,SGM125,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,146,44.5,Mesophotic,Y
+SGM126,SGM142,SGM126,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,156,47.5,Mesophotic,Y
+SGM127,SGM143,SGM127,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,152,46.3,Mesophotic,Y
+SGM128,SGM144,SGM128,FGBNMS,EFGB,EBMeso1,8/1/21,Stephanocoenia intersepta,27.91102,-93.59668,151,46,Mesophotic,Y
+SGM129,SGM145,SGM129,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,73,22.3,Shallow,Y
+SGM130,SGM146,SGM130,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,75,22.9,Shallow,Y
+SGM131,SGM148,SGM131,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,74,22.6,Shallow,Y
+SGM132,SGM149,SGM132,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,74,22.6,Shallow,Y
+SGM133,SGM150,SGM133,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,76,23.2,Shallow,Y
+SGM134,SGM151,SGM134,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,75,22.9,Shallow,Y
+SGM135,SGM152,SGM135,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,78,23.8,Shallow,Y
+SGM136,SGM153,SGM136,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,74,22.6,Shallow,Y
+SGM137,SGM154,SGM137,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,73,22.3,Shallow,Y
+SGM138,SGM155,SGM138,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,77,23.5,Shallow,Y
+SGM139,SGM156,SGM139,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,76,23.2,Shallow,Y
+SGM140,SGM158,SGM140,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,78,23.8,Shallow,Y
+SGM141,SGM159,SGM141,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,79,24.1,Shallow,Y
+SGM142,SGM160,SGM142,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,69,21,Shallow,Y
+SGM143,SGM161,SGM143,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,66,20.1,Shallow,Y
+SGM144,SGM162,SGM144,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,67,20.4,Shallow,Y
+SGM145,SGM163,SGM145,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,67,20.4,Shallow,Y
+SGM146,SGM164,SGM146,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,67,20.4,Shallow,Y
+SGM147,SGM165,SGM147,FGBNMS,EFGB,EBShal1,8/1/21,Stephanocoenia intersepta,27.9114,-93.59821,65,19.8,Shallow,Y
+SGM148,SGM166,SGM148,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,77,23.5,Shallow,Y
+SGM149,SGM167,SGM149,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,78,23.8,Shallow,Y
+SGM150,SGM168,SGM150,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,78,23.8,Shallow,Y
+SGM151,SGM169,SGM151,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,82,25,Shallow,Y
+SGM152.1,SGM170,SGM152,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,80,24.4,Shallow,Y
+SGM152.2,SGM170.2,SGM152,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,80,24.4,Shallow,Y
+SGM152.3,SGM170.3,SGM152,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,80,24.4,Shallow,Y
+SGM153,SGM171,SGM153,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,75,22.9,Shallow,Y
+SGM154,SGM172,SGM154,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,76,23.2,Shallow,Y
+SGM155,SGM173,SGM155,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,80,24.4,Shallow,Y
+SGM156,SGM174,SGM156,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,81,24.7,Shallow,Y
+SGM157,SGM175,SGM157,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,78,23.8,Shallow,Y
+SGM158,SGM176,SGM158,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,77,23.5,Shallow,Y
+SGM159,SGM177,SGM159,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,77,23.5,Shallow,Y
+SGM160,SGM178,SGM160,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,75,22.9,Shallow,Y
+SGM161,SGM179,SGM161,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,76,23.2,Shallow,Y
+SGM162,SGM180,SGM162,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,74,22.6,Shallow,Y
+SGM163,SGM181,SGM163,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,77,23.5,Shallow,Y
+SGM164,SGM182,SGM164,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,73,22.3,Shallow,Y
+SGM165,SGM183,SGM165,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,75,22.9,Shallow,Y
+SGM166,SGM184,SGM166,FGBNMS,WFGB,WBShal1,8/2/21,Stephanocoenia intersepta,27.87429,-93.82033,73,22.3,Shallow,Y
+SGM167,SGM186,SGM167,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,79,24.1,Shallow,Y
+SGM168,SGM187,SGM168,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,81,24.7,Shallow,Y
+SGM169,SGM189,SGM169,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,80,24.4,Shallow,N
+SGM170,SGM190,SGM170,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,84,25.6,Shallow,Y
+SGM171,SGM192,SGM171,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,73,22.3,Shallow,Y
+SGM172,SGM193,SGM172,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,71,21.6,Shallow,Y
+SGM173,SGM194,SGM173,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,75,22.9,Shallow,Y
+SGM174,SGM195,SGM174,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,75,22.9,Shallow,Y
+SGM175,SGM197,SGM175,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,73,22.3,Shallow,Y
+SGM176,SGM199,SGM176,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,77,23.5,Shallow,Y
+SGM177,SGM200,SGM177,FGBNMS,WFGB,WBShal1,8/3/21,Stephanocoenia intersepta,27.87429,-93.82033,77,23.5,Shallow,N
+SGM178,SGM201,SGM178,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,154,46.9,Mesophotic,Y
+SGM179,SGM203,SGM179,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,152,46.3,Mesophotic,Y
+SGM180,SGM204,SGM180,FGBNMS,EFGB,EBMeso1,7/31/21,Stephanocoenia intersepta,27.91102,-93.59668,160,48.8,Mesophotic,Y
+SGM181,SGB002,SGM181,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,154,46.9,Mesophotic,Y
+SGM182,SGB004,SGM182,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,146,44.5,Mesophotic,Y
+SGM183,SGB005,SGM183,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,147,44.8,Mesophotic,Y
+SGM184,SGB006,SGM184,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,149,45.4,Mesophotic,Y
+SGM185,SGB007,SGM185,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,152,46.3,Mesophotic,Y
+SGM186.1,SGB008,SGM186,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,151,46,Mesophotic,Y
+SGM186.2,SGB008.2,SGM186,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,151,46,Mesophotic,Y
+SGM186.3,SGB008.3,SGM186,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,151,46,Mesophotic,Y
+SGM187,SGB009,SGM187,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,151,46,Mesophotic,Y
+SGM188,SGB010,SGM188,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,150,45.7,Mesophotic,Y
+SGM189,SGB011,SGM189,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,168,51.2,Mesophotic,Y
+SGM190,SGB012,SGM190,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,171,52.1,Mesophotic,Y
+SGM191,SGB013,SGM191,FGBNMS,Geyer,GBMeso1,5/16/23,Stephanocoenia intersepta,27.84753,-93.06443,170,51.8,Mesophotic,Y
+SGM192,SGB015,SGM192,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,152,46.3,Mesophotic,Y
+SGM193,SGB016,SGM193,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,147,44.8,Mesophotic,Y
+SGM194,SGB017,SGM194,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,153,46.6,Mesophotic,Y
+SGM195,SGB018,SGM195,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,153,46.6,Mesophotic,Y
+SGM196,SGB019,SGM196,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,152,46.3,Mesophotic,Y
+SGM197.1,SGB020,SGM197,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,154,46.9,Mesophotic,Y
+SGM197.2,SGB020.2,SGM197,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,154,46.9,Mesophotic,Y
+SGM197.3,SGB020.3,SGM197,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,154,46.9,Mesophotic,Y
+SGM198,SGB021,SGM198,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,159,48.5,Mesophotic,Y
+SGM199,SGB022,SGM199,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,151,46,Mesophotic,Y
+SGM200,SGB023,SGM200,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,147,44.8,Mesophotic,Y
+SGM201,SGB024,SGM201,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,158,48.2,Mesophotic,Y
+SGM202,SGB025,SGM202,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,159,48.5,Mesophotic,Y
+SGM203,SGB026,SGM203,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,152,46.3,Mesophotic,Y
+SGM204,SGB027,SGM204,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,151,46,Mesophotic,Y
+SGM205,SGB028,SGM205,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,145,44.2,Mesophotic,Y
+SGM206.1,SGB029,SGM206,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,141,43,Mesophotic,Y
+SGM206.2,SGB029.2,SGM206,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,141,43,Mesophotic,Y
+SGM206.3,SGB029.3,SGM206,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,141,43,Mesophotic,Y
+SGM207,SGB030,SGM207,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,137,41.8,Mesophotic,Y
+SGM208,SGB031,SGM208,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,153,46.6,Mesophotic,Y
+SGM209,SGB032,SGM209,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,146,44.5,Mesophotic,Y
+SGM210,SGB033,SGM210,FGBNMS,Geyer,GBMeso1,5/17/23,Stephanocoenia intersepta,27.84753,-93.06443,142,43.3,Mesophotic,Y
+SSF001,08-VI-22-1-01,SSF001,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,59,18,Shallow,Y
+SSF002,08-VI-22-1-02,SSF002,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,53,16.2,Shallow,Y
+SSF003,08-VI-22-1-03,SSF003,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,57,17.4,Shallow,Y
+SSF004,08-VI-22-1-04,SSF004,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,54,16.5,Shallow,Y
+SSF005.1,08-VI-22-1-05,SSF005,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,56,17.1,Shallow,Y
+SSF005.2,08-VI-22-1-05,SSF005,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,56,17.1,Shallow,Y
+SSF005.3,08-VI-22-1-05,SSF005,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,56,17.1,Shallow,Y
+SSF006,08-VI-22-1-06,SSF006,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,52,15.8,Shallow,Y
+SSF007,08-VI-22-1-07,SSF007,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,51,15.5,Shallow,Y
+SSF008,08-VI-22-1-08,SSF008,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,52,15.8,Shallow,Y
+SSF009,08-VI-22-1-09,SSF009,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,52,15.8,Shallow,Y
+SSF010,08-VI-22-1-10,SSF010,KJCAP,West Palm,SEFL-08,6/8/22,Stephanocoenia intersepta,26.710433,-80.015817,54,16.5,Shallow,Y
+SSF011,08-VI-22-2-01,SSF011,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,53,16.2,Shallow,Y
+SSF012,08-VI-22-2-02,SSF012,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,53,16.2,Shallow,Y
+SSF013,08-VI-22-2-03,SSF013,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,51,15.5,Shallow,Y
+SSF014,08-VI-22-2-04,SSF014,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,54,16.5,Shallow,Y
+SSF015,08-VI-22-2-05,SSF015,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,52,15.8,Shallow,Y
+SSF016,08-VI-22-2-06,SSF016,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,52,15.8,Shallow,Y
+SSF017,08-VI-22-2-07,SSF017,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,52,15.8,Shallow,Y
+SSF018,08-VI-22-2-08,SSF018,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,53,16.2,Shallow,Y
+SSF019,08-VI-22-2-09,SSF019,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,51,15.5,Shallow,Y
+SSF020,08-VI-22-2-10,SSF020,KJCAP,West Palm,SEFL-11,6/8/22,Stephanocoenia intersepta,26.6785,-80.01825,55,16.8,Shallow,Y
+SSF021,08-VI-22-3-01,SSF021,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,47,14.3,Shallow,Y
+SSF022,08-VI-22-3-02,SSF022,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,52,15.8,Shallow,Y
+SSF023,08-VI-22-3-03,SSF023,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,52,15.8,Shallow,Y
+SSF024,08-VI-22-3-04,SSF024,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,53,16.2,Shallow,Y
+SSF025,08-VI-22-3-05,SSF025,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,52,15.8,Shallow,Y
+SSF026,08-VI-22-3-06,SSF026,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,51,15.5,Shallow,Y
+SSF027,08-VI-22-3-07,SSF027,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,49,14.9,Shallow,Y
+SSF028,08-VI-22-3-08,SSF028,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,50,15.2,Shallow,Y
+SSF029,08-VI-22-3-09,SSF029,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,49,14.9,Shallow,Y
+SSF030,08-VI-22-3-10,SSF030,KJCAP,West Palm,SEFL-12,6/8/22,Stephanocoenia intersepta,26.652387,-80.0206817,48,14.6,Shallow,Y
+SSF031,10-VI-22-1-01,SSF031,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,68,20.7,Shallow,Y
+SSF032,10-VI-22-1-02,SSF032,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,68,20.7,Shallow,Y
+SSF033,10-VI-22-1-03,SSF033,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,68,20.7,Shallow,Y
+SSF034,10-VI-22-1-04,SSF034,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,67,20.4,Shallow,Y
+SSF035,10-VI-22-1-05,SSF035,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,68,20.7,Shallow,Y
+SSF036,10-VI-22-1-06,SSF036,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,71,21.6,Shallow,Y
+SSF037,10-VI-22-1-07,SSF037,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,71,21.6,Shallow,Y
+SSF038,10-VI-22-1-08,SSF038,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,71,21.6,Shallow,Y
+SSF039,10-VI-22-1-09,SSF039,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,69,21,Shallow,Y
+SSF040,10-VI-22-1-10,SSF040,KJCAP,Jupiter,SEFL-06,6/10/22,Stephanocoenia intersepta,26.897735,-80.016383,68,20.7,Shallow,Y
+SSF041,10-VI-22-2-01,SSF041,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,70,21.3,Shallow,Y
+SSF042,10-VI-22-2-02,SSF042,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,70,21.3,Shallow,Y
+SSF043,10-VI-22-2-03,SSF043,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,72,21.9,Shallow,Y
+SSF044,10-VI-22-2-04,SSF044,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,71,21.6,Shallow,Y
+SSF045,10-VI-22-2-05,SSF045,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,72,21.9,Shallow,Y
+SSF046,10-VI-22-2-06,SSF046,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,73,22.3,Shallow,Y
+SSF047,10-VI-22-2-07,SSF047,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,73,22.3,Shallow,Y
+SSF048,10-VI-22-2-08,SSF048,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,75,22.9,Shallow,Y
+SSF049,10-VI-22-2-09,SSF049,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,72,21.9,Shallow,Y
+SSF050,10-VI-22-2-10,SSF050,KJCAP,Jupiter,SEFL-05,6/10/22,Stephanocoenia intersepta,26.927445,-80.0301,73,22.3,Shallow,Y
+SSF051,10-VI-22-3-01,SSF051,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,73,22.3,Shallow,Y
+SSF052,10-VI-22-3-02,SSF052,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,73,22.3,Shallow,Y
+SSF053,10-VI-22-3-03,SSF053,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,71,21.6,Shallow,Y
+SSF054,10-VI-22-3-04,SSF054,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,73,22.3,Shallow,Y
+SSF055,10-VI-22-3-05,SSF055,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,73,22.3,Shallow,Y
+SSF056,10-VI-22-3-06,SSF056,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,74,22.6,Shallow,Y
+SSF057,10-VI-22-3-07,SSF057,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,72,21.9,Shallow,Y
+SSF058,10-VI-22-3-08,SSF058,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,74,22.6,Shallow,Y
+SSF059,10-VI-22-3-09,SSF059,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,71,21.6,Shallow,Y
+SSF060,10-VI-22-3-10,SSF060,KJCAP,Jupiter,SEFL-04,6/10/22,Stephanocoenia intersepta,26.94370833,-80.02197167,71,21.6,Shallow,Y
+SSF061,23-VI-22-1-01,SSF061,KJCAP,St. Lucie Reef,Ledge,6/23/22,Stephanocoenia intersepta,27.12143333,-80.1275,17,5.2,Shallow,Y
+SSF062,23-VI-22-1-02,SSF062,KJCAP,St. Lucie Reef,Ledge,6/23/22,Stephanocoenia intersepta,27.12143333,-80.1275,15,4.6,Shallow,Y
+SSF063,03-VIII-22-1-01,SSF063,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,20,6.1,Shallow,Y
+SSF064,03-VIII-22-1-02,SSF064,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,19,5.8,Shallow,Y
+SSF065,03-VIII-22-1-03,SSF065,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,19,5.8,Shallow,Y
+SSF066.1,03-VIII-22-1-04,SSF066,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,20,6.1,Shallow,Y
+SSF066.2,03-VIII-22-1-04,SSF066,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,20,6.1,Shallow,Y
+SSF066.3,03-VIII-22-1-04,SSF066,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,20,6.1,Shallow,Y
+SSF067,03-VIII-22-1-05,SSF067,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,20,6.1,Shallow,Y
+SSF068,03-VIII-22-1-06,SSF068,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,20,6.1,Shallow,Y
+SSF069,03-VIII-22-1-07,SSF069,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,20,6.1,Shallow,Y
+SSF070,03-VIII-22-1-08,SSF070,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,21,6.4,Shallow,Y
+SSF071,03-VIII-22-1-09,SSF071,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,23,7,Shallow,Y
+SSF072,03-VIII-22-1-10,SSF072,KJCAP,Ft. Lauderdale,FTL4,8/3/22,Stephanocoenia intersepta,26.13661,-80.09738,19,5.8,Shallow,Y
+SSF073,03-VIII-22-2-01,SSF073,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,25,7.6,Shallow,Y
+SSF074,03-VIII-22-2-02,SSF074,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,27,8.2,Shallow,Y
+SSF075,03-VIII-22-2-03,SSF075,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,28,8.5,Shallow,Y
+SSF076,03-VIII-22-2-04,SSF076,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,29,8.8,Shallow,Y
+SSF077,03-VIII-22-2-05,SSF077,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,30,9.1,Shallow,Y
+SSF078,03-VIII-22-2-06,SSF078,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,29,8.8,Shallow,Y
+SSF079,03-VIII-22-2-07,SSF079,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,26,7.9,Shallow,Y
+SSF080,03-VIII-22-2-08,SSF080,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,25,7.6,Shallow,Y
+SSF081,03-VIII-22-2-09,SSF081,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,32,9.8,Shallow,Y
+SSF082,03-VIII-22-2-10,SSF082,KJCAP,Ft. Lauderdale,BC1,8/3/22,Stephanocoenia intersepta,26.14758,-80.0961,31,9.4,Shallow,Y
+SSF083,03-VIII-22-3-01,SSF083,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,18,5.5,Shallow,Y
+SSF084,03-VIII-22-3-02,SSF084,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,17,5.2,Shallow,Y
+SSF085,03-VIII-22-3-03,SSF085,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,20,6.1,Shallow,Y
+SSF086,03-VIII-22-3-04,SSF086,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,20,6.1,Shallow,Y
+SSF087,03-VIII-22-3-05,SSF087,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,19,5.8,Shallow,Y
+SSF088,03-VIII-22-3-06,SSF088,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,19,5.8,Shallow,Y
+SSF089,03-VIII-22-3-07,SSF089,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,17,5.2,Shallow,Y
+SSF090,03-VIII-22-3-08,SSF090,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,18,5.5,Shallow,Y
+SSF091.1,03-VIII-22-3-09,SSF091,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,19,5.8,Shallow,Y
+SSF091.2,03-VIII-22-3-09,SSF091,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,19,5.8,Shallow,Y
+SSF091.3,03-VIII-22-3-09,SSF091,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,19,5.8,Shallow,Y
+SSF092,03-VIII-22-3-10,SSF092,KJCAP,Ft. Lauderdale,T328,8/3/22,Stephanocoenia intersepta,26.17611,-80.09388,18,5.5,Shallow,Y
+SSF093,31-VIII-22-1-01,SSF093,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,54,16.5,Shallow,Y
+SSF094,31-VIII-22-1-02,SSF094,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,53,16.2,Shallow,Y
+SSF095,31-VIII-22-1-03,SSF095,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,52,15.8,Shallow,Y
+SSF096,31-VIII-22-1-04,SSF096,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,52,15.8,Shallow,Y
+SSF097,31-VIII-22-1-05,SSF097,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,53,16.2,Shallow,Y
+SSF098,31-VIII-22-1-06,SSF098,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,53,16.2,Shallow,Y
+SSF099,31-VIII-22-1-07,SSF099,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,55,16.8,Shallow,Y
+SSF100,31-VIII-22-1-08,SSF100,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,54,16.5,Shallow,Y
+SSF101,31-VIII-22-1-09,SSF101,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,56,17.1,Shallow,Y
+SSF102,31-VIII-22-1-10,SSF102,KJCAP,Boynton,SEFL-20,8/31/22,Stephanocoenia intersepta,26.45383,-80.04607,59,18,Shallow,Y
+SSF103,31-VIII-22-2-01,SSF103,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF104,31-VIII-22-2-02,SSF104,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF105,31-VIII-22-2-03,SSF105,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF106,31-VIII-22-2-04,SSF106,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,52,15.8,Shallow,Y
+SSF107,31-VIII-22-2-05,SSF107,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF108,31-VIII-22-2-06,SSF108,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,55,16.8,Shallow,Y
+SSF109,31-VIII-22-2-07,SSF109,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF110,31-VIII-22-2-08,SSF110,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF111,31-VIII-22-2-09,SSF111,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF112,31-VIII-22-2-10,SSF112,KJCAP,Boynton,SEFL-18,8/31/22,Stephanocoenia intersepta,26.4935917,-80.037515,53,16.2,Shallow,Y
+SSF113,31-VIII-22-3-01,SSF113,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,54,16.5,Shallow,Y
+SSF114,31-VIII-22-3-02,SSF114,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,55,16.8,Shallow,Y
+SSF115,31-VIII-22-3-03,SSF115,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,55,16.8,Shallow,Y
+SSF116,31-VIII-22-3-04,SSF116,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,55,16.8,Shallow,Y
+SSF117,31-VIII-22-3-05,SSF117,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,54,16.5,Shallow,Y
+SSF118,31-VIII-22-3-06,SSF118,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,57,17.4,Shallow,Y
+SSF119,31-VIII-22-3-07,SSF119,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,58,17.7,Shallow,Y
+SSF120,31-VIII-22-3-08,SSF120,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,55,16.8,Shallow,Y
+SSF121,31-VIII-22-3-09,SSF121,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,55,16.8,Shallow,Y
+SSF122,31-VIII-22-3-10,SSF122,KJCAP,Boynton,SEFL-16,8/31/22,Stephanocoenia intersepta,26.5235517,-80.031692,56,17.1,Shallow,Y
