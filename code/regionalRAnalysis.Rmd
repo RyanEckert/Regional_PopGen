@@ -1,7 +1,7 @@
 ---
 title: "Regional population genetics"
 author: "Ryan Eckert"
-date: "2025-02-19"
+date: 
 output:
   html_document:
     theme: flatly
@@ -9,13 +9,12 @@ output:
     toc_depth: 3
     toc_float: yes
 knit: (function(input, ...) {
-    )
     rmarkdown::render(
       input,
-      output_file = '../data/index.html',
+      output_file = '../code/index.html',
       envir = globalenv()
-editor_options: 
-  chunk_output_type: console
+    )
+  })
 ---
 
 <a href="https://github.com/RyanEckert/Regional_PopGen" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#2C3E50; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a>
@@ -25,7 +24,7 @@ editor_options:
 ```
 #### version: `r library(magrittr)` `r Sys.Date() %>% format(format="%d %B, %Y")`
 
-#### [GitHub repository](https://github.com/RyanEckert/NWGOM_PopGen.git){target="_blank"}
+#### [GitHub repository](https://github.com/RyanEckert/Regional_PopGen.git){target="_blank"}
 
 # About this document
 
@@ -59,7 +58,7 @@ if (!require("pacman")) install.packages("pacman")
 
 pacman::p_load_gh("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis", "ropensci/rnaturalearthhires", "KarstensLab/microshades")
 
-pacman::p_load("flextable", "cowplot", "car", "ggrepel", "ggspatial", "paletteer", "patchwork", "rnaturalearth", "sf", "Hmisc", "MCMC.OTU", "pairwiseAdonis", "RColorBrewer", "Redmonder", "lubridate", "officer", "adegenet", "dendextend", "gdata", "ggdendro", "hierfstat", "kableExtra", "poppr", "reshape2", "StAMPP", "vcfR", "vegan", "boa", "magick", "sdmpredictors", "ggcorrplot", "tidyverse", "TeachingDemos", "LaplacesDemon", "adespatial", "ggnewscale", "ggbeeswarm", "multcomp", "rstatix", "R.utils", "graph4lg", "ggstance", "ggtreeExtra", "ggtree", "multcompView", "ggmosaic")
+pacman::p_load("flextable", "cowplot", "car", "ggrepel", "ggspatial", "paletteer", "patchwork", "rnaturalearth", "sf", "Hmisc", "MCMC.OTU", "pairwiseAdonis", "RColorBrewer", "Redmonder", "lubridate", "officer", "adegenet", "dendextend", "gdata", "ggdendro", "hierfstat", "kableExtra", "poppr", "reshape2", "StAMPP", "vcfR", "vegan", "boa", "magick", "sdmpredictors", "ggcorrplot", "tidyverse", "TeachingDemos", "LaplacesDemon", "adespatial", "ggnewscale", "ggbeeswarm", "multcomp", "rstatix", "R.utils", "graph4lg", "ggstance", "ggtreeExtra", "ggtree", "multcompView", "ggmosaic", "ggridges", "scales")
 
 options("scipen" = 10)
 
@@ -729,7 +728,7 @@ sintPopAnno$site = factor(sintPopAnno$site, levels = levels(sintPopAnno$site)[c(
 
 #### Make admixture plots
 
-```{r, mcav admix plots}
+```{r, sint admix plots}
 sintAdmixPlotA = ggplot(data = sintAdmixMelt, aes(x = ord, y = Fraction, fill = Ancestry, order = sample)) +
   geom_segment(data = sintPopAnno, aes(x = x1, xend = x2, y = -.1, yend = -.1, color = site), size = 7) +
   geom_bar(stat = "identity", position = "fill", width = 1, colour = "grey25", size = 0.2) +
@@ -1092,7 +1091,7 @@ sintFstHeatmap
 
 Making stairway plot of effective population sizes of each lineage throughout time
 
-```{r, stairway plot}
+```{r, sint stairway plot}
 si1 = read.table("../data/sint/swPlot/Si1.final.summary", header = TRUE) %>% mutate("Lineage" = "Si1")
 si2 = read.table("../data/sint/swPlot/Si2.final.summary", header = TRUE) %>% mutate("Lineage" = "Si2")
 si3 = read.table("../data/sint/swPlot/Si3.final.summary", header = TRUE) %>% mutate("Lineage" = "Si3")
@@ -1106,7 +1105,7 @@ sintSwData$Lineage = factor(sintSwData$Lineage)
 ```
 
 Constuct plot
-```{r, swPlot}
+```{r, sint swPlot}
 sintSwPlotA = ggplot(data = sintSwData, aes(x = year, y = Ne_median, ymin = Ne_12.5., ymax = Ne_87.5., color = Lineage, fill = Lineage)) +
   geom_ribbon(color = NA, alpha = 0.25) +
   # geom_line(size = 0.6) +
@@ -1550,7 +1549,7 @@ xestoPopAnno$site = factor(xestoPopAnno$site, levels = levels(xestoPopAnno$site)
 
 #### Make admixture plots
 
-```{r, mcav admix plots}
+```{r, xesto admix plots}
 xestoAdmixPlotA = ggplot(data = xestoAdmixMelt, aes(x = ord, y = Fraction, fill = Ancestry, order = sample)) +
   geom_segment(data = xestoPopAnno, aes(x = x1, xend = x2, y = -.1, yend = -.1, color = site), size = 7) +
   geom_bar(stat = "identity", position = "fill", width = 1, colour = "grey25", size = 0.2) +
@@ -1915,7 +1914,7 @@ xestoFstHeatmap
 
 Making stairway plot of effective population sizes of each lineage throughout time
 
-```{r, stairway plot}
+```{r, xesto stairway plot}
 xm1 = read.table("../data/xesto/swPlot/Xm1.final.summary", header = TRUE) %>% mutate("Lineage" = "Xm1")
 xm2 = read.table("../data/xesto/swPlot/Xm2.final.summary", header = TRUE) %>% mutate("Lineage" = "Xm2")
 xm3 = read.table("../data/xesto/swPlot/Xm3.final.summary", header = TRUE) %>% mutate("Lineage" = "Xm3")
@@ -1931,7 +1930,7 @@ xestoSwData$Lineage = factor(xestoSwData$Lineage)
 ```
 
 Constuct plot
-```{r, swPlot}
+```{r, xesto swPlot}
 xestoSwPlotA = ggplot(data = xestoSwData, aes(x = year, y = Ne_median, ymin = Ne_12.5., ymax = Ne_87.5., color = Lineage, fill = Lineage)) +
   geom_ribbon(color = NA, alpha = 0.25) +
   # geom_line(size = 0.6) +

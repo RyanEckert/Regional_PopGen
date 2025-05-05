@@ -1,5 +1,5 @@
 ---
-title: "Regional **S. intersepta** & **X. muta** 2bRAD"
+title: "Regional *S. intersepta* & *X. muta* 2bRAD"
 author: "Ryan Eckert"
 output:
   html_document:
@@ -8,23 +8,23 @@ output:
     toc_depth: 3
     toc_float: yes
 knit: (function(input, ...) {
-    )
     rmarkdown::render(
       input,
-      output_file = '../code/index.html',
+      output_file = '../data/index.html',
       envir = globalenv()
-editor_options: 
-  chunk_output_type: console
+    )
+  })
 ---
-<a href="https://github.com/RyanEckert/Stephanocoenia_FKNMS_PopGen" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#2C3E50; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
 ```
 
+<a href="https://github.com/RyanEckert/Regional_PopGen" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#2C3E50; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+
 #### version: `r library(magrittr)` `r Sys.Date() %>% format(format="%B %d, %Y")`
 
-#### [GitHub repository](https://github.com/RyanEckert/Stephanocoenia_FKNMS_PopGen.git){target="_blank"}
+#### [GitHub repository](https://github.com/RyanEckert/Regional_PopGen.git){target="_blank"}
 
 ## A B O U T &nbsp; T H I S &nbsp; D O C U M E N T
 
@@ -522,7 +522,7 @@ sbatch --mem=200GB -o sintClones.o%j -e sintClones.e%j -p shortq7 --mail-type=AL
 <br>
 
 Use ibs matrix to identify clones with hierachial clustering in ```R```. ```scp``` to local machine and run chunk below in ```R```
-```{r, Dendrogram With Clones, fig.dim = c(13, 4.75)}
+```{r, sint Dendrogram With Clones, fig.dim = c(13, 4.75)}
 if (!require("pacman")) install.packages("pacman")
 
 pacman::p_load("dendextend", "ggdendro", "tidyverse")
@@ -705,14 +705,14 @@ done
 ```
 
 Format for CLUMPAK in R
-```{bash, R}
+```{bash, R1}
 R
 
 ```
 
 You are now using R in the terminal
 
-```{r, format Clumpak}
+```{r, format Clumpak sint}
 logs <- as.data.frame(read.table("sintNgsAdmixLogfile"))
 
 #output is organized with 10, 11 preceding 1, 2, 3 etc.
@@ -826,7 +826,7 @@ mv sintFilt* ../filteredSNPS/
 
 ### Running ngsRelate on filtered SNPs
 
-```{bash, xesto relate}
+```{bash, sint relate}
 cd ~/2bRAD/regional/sint/ANGSD
 
 FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -minQ 30 -dosnpstat 1 -doHWE 1 -hwe_pval 1e-5 -sb_pval 1e-5 -hetbias_pval 1e-5 -skipTriallelic 1 -snp_pval 1e-5 -minMaf 0.05 -setMinDepthInd 3"
@@ -1128,7 +1128,7 @@ tail --lines=+73 sintSfsBayesFst.vcf | cut -f 1,2 | paste --delimiters "\t" - si
 <br>
 
 Identify sites with *q*-value < 0.5
-```{bash, fst filt}
+```{bash, sint fst filt}
 cp ../ANGSD/sintSfsSitesToDo .
 
 awk '$5<0.5 {print $1"\t"$2}' sint.baye_fst_pos.txt > sintBayeOuts
@@ -1176,7 +1176,7 @@ sbatch sintFiltSFS.slurm
 <br>
 
 Making blueprint files for StairwayPlot
-```{bash, swplot}
+```{bash, sint swplot}
 mkdir ../swPlot
 cd ../swPlot
 
@@ -1319,7 +1319,7 @@ fontsize: 12 # Font size" >sintSi5.blueprint
 
 
 Create batch files and launch:
-```{bash, swplot2}
+```{bash, xesto swplot2}
 for blueprint in *Xm1*.blueprint; do
 java -cp $HOME/bin/stairway_plot/stairway_plot_es Stairbuilder $blueprint;
 done
@@ -1338,7 +1338,7 @@ done
 ```
 
 After all have run:
-```{bash, swplot4}
+```{bash, sint swplot4}
 mv Si*/*final.summary .
 
 mkdir blueprint
@@ -1472,7 +1472,7 @@ sbatch --mem=200GB -o xestoClones.o%j -e xestoClones.e%j -p shortq7 --mail-type=
 ```
 
 Use ibs matrix to identify clones with hierachial clustering in ```R```. ```scp``` to local machine and run chunk below in ```R```
-```{r, Dendrogram With Clones, fig.dim = c(13, 4.75)}
+```{r, xesto Dendrogram With Clones, fig.dim = c(13, 4.75)}
 if (!require("pacman")) install.packages("pacman")
 
 pacman::p_load("dendextend", "ggdendro", "tidyverse")
@@ -1652,14 +1652,14 @@ done
 ```
 
 Format for CLUMPAK in R
-```{bash, R}
+```{bash, R2}
 R
 
 ```
 
 You are now using R in the terminal
 
-```{r, format Clumpak}
+```{r, format Clumpak xesto}
 logs <- as.data.frame(read.table("xestoNgsAdmixLogfile"))
 
 #output is organized with 10, 11 preceding 1, 2, 3 etc.
@@ -1680,7 +1680,7 @@ cat xestoNgsAdmixLogfile_formatted | wc -l
 ```
 
 make copies of .qopt files to run structure selector on (.Q files)
-```{bash, strselector format}
+```{bash, strselector format 2}
 for file in xesto*.qopt; do
 filename=$(basename -- "$file" .qopt);
 cp "$file" "$filename".Q;
@@ -1731,7 +1731,7 @@ sbatch kSnps.slurm
 <br>
 
 Filtering down the sites to those found within each lineage with the given ANGSD filtering criteria
-```{bash, angsd lineage2}
+```{bash, angsd lineage2 xesto}
 for file in xm*Snps.geno.gz; do
 echo '#!/bin/bash' > ${file%%.*}.sh;
 echo "zcat $file | awk '{print \$1\"\t\"\$2}' > ${file%%.*}sites" >> ${file%%.*}.sh;
@@ -1750,7 +1750,7 @@ mv kSnps* ../filteredSNPS/
 
 Now index the sites file and run angsd on all samples with only the reduced number of sites using ```-sites``` flag
 
-```{bash, angsd lineage3}
+```{bash, angsd lineage3 xesto}
 cd ~/2bRAD/regional/xesto/ANGSD
 
 angsd sites index xestoSitesToDo
@@ -1806,7 +1806,7 @@ sbatch -e ngsFiltRelate.e%j -o ngsFiltRelate.o%j --mem=200GB --mail-user reckert
 
 ### ngsF inbreeding
 
-```{bash, ngsF}
+```{bash, xesto ngsF}
 module load ngstools-master-gcc-8.3.0-qcbecbz
 module load ngsf-master-gcc-8.3.0-yscrrl3
 
@@ -1827,7 +1827,7 @@ srun zcat xestoFiltRelate.glf.gz  | ngsF --n_ind 539 --n_sites $N_SITES --glf - 
 ## S I T E &nbsp; F R E Q U E N C Y &nbsp; S P E C T R A
 Running SFS calculations within lineage to use for Fst and to run ```StairwayPlot```
 
-```{bash, sfs}
+```{bash, xesto sfs}
 cd ~/2bRAD/regional/xesto/ANGSD
 mv *Filt* ../filteredSNPS
 
@@ -1870,7 +1870,7 @@ done
 
 Now, compile common sites from all lineages using awk
 
-```{bash, sfs2}
+```{bash, xesto sfs2}
 srun awk '(++c[$0])==(ARGC-1)' *SFSsites > xestoSfsSitesToDo
 
 cat xestoSfsSitesToDo | wc -l
@@ -1897,7 +1897,7 @@ sbatch xestoSFS.slurm
 <br>
 
 Once all jobs run:
-```{bash, sfs3}
+```{bash, xesto sfs3}
 mkdir ../SFS
 
 mv xestoXm* ../SFS
@@ -1969,7 +1969,7 @@ sbatch 2dSFS.slurm
 ```
 
 ### Global Fst between lineages
-```{bash, fst}
+```{bash, xesto fst}
 > xestoKFst
 realSFS fst stats pXm1Xm2.fst.idx >> xestoKFst
 realSFS fst stats pXm1Xm3.fst.idx >> xestoKFst
@@ -2051,7 +2051,7 @@ cat xestoKFst.out
 ### StairwayPlot2
 
 First, we filter Fst outliers from sites:
-```{bash, fst2}
+```{bash, xesto fst2}
 cd ~/2bRAD/regional/xesto/ANGSD
 
 cp ../SFS/xestoSfsSitesToDo .
@@ -2074,7 +2074,7 @@ cd ~/2bRAD/regional/xesto/bayescan
 <br>
 
 Create a file called vcf2bayescan.spid containing this text:
-```{bash, spid}
+```{bash, xesto spid}
 echo "############
 # VCF Parser questions
 PARSER_FORMAT=VCF
@@ -2110,7 +2110,7 @@ GESTE_BAYE_SCAN_WRITER_DATA_TYPE_QUESTION=SNP
 <br> 
 
 Need a file "bspops" that has samples **in .bams order** with the assigned populations/lineages
-```{bash, pops}
+```{bash, xesto pops}
 cp ../ANGSD/xestoBamsClusters . 
 cp ../ANGSD/xestoSfsBayesFst.bcf .
 
