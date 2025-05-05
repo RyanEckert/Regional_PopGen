@@ -147,7 +147,7 @@ echo $PATH
 ```
 
 
-# **Stephanocoenia intersepta**
+# *Stephanocoenia intersepta*
 ***
 
 ## D E N O V O &nbsp; R E F E R E N C E 
@@ -155,7 +155,7 @@ echo $PATH
 
 Construct denovo reference for aligning reads                              
 
-### Remove symbiodiniaceae reads
+### Remove Symbiodiniaceae reads
 If you've not already, build a bt reference for the concatenated zoox genomes, otherwise skip ahead to the next chunk
 
 ```{bash, symbiont genomes}
@@ -1416,7 +1416,7 @@ mv *Theta* ../theta
 <br>
 
 
-# **Xestospongia muta**
+# *Xestospongia muta*
 ***
 
 ## G E N O T Y P I N G
