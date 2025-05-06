@@ -147,7 +147,7 @@ echo $PATH
 ```
 
 
-# *Stephanocoenia intersepta*
+# *Stephanocoenia intersepta* 
 ***
 
 ## D E N O V O &nbsp; R E F E R E N C E 
