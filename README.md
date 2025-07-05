@@ -1,7 +1,7 @@
 # Regional_PopGen
  Population genetics of *Stepahanocoenia intersepta* and *Xestospongia muta* across MPAs in the NWGOM and Florida
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14861702.svg)](https://doi.org/10.5281/zenodo.14861702)
+[![DOI](https://zenodo.org/badge/867846745.svg)](https://doi.org/10.5281/zenodo.14861702)
 
 ### Ryan Eckert -- <ryan.j.eckert@gmail.com>
 ### [ryanjeckert.weebly.com](https://ryanjeckert.weebly.com)
